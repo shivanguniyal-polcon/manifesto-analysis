@@ -1,0 +1,519 @@
+promise_id,party,year,page_number,manifesto_section,promise_text
+INC_2019_0001,INC,2019,0,Labour & Employment,We will give the highest priority to protecting existing jobs and creating new jobs.
+INC_2019_0002,INC,2019,0,Labour & Employment,"We will create a new Ministry of Industry, Services and Employment."
+INC_2019_0003,INC,2019,0,Labour & Employment,"We will fill all 4 lakh vacancies in the Central Government, Central Public Sector Enterprises, Judiciary and Parliament before March 2020."
+INC_2019_0004,INC,2019,0,Health,"We will request State Governments to fill all 20 lakh vacancies in the healthcare, education sectors and local bodies."
+INC_2019_0005,INC,2019,0,Rural Development,We will create 10 lakh Seva Mitra positions in every Gram Panchayat and Urban Local Body.
+INC_2019_0006,INC,2019,0,Governance & Anti-Corruption,We will abolish application fees for government examinations and posts.
+INC_2019_0007,INC,2019,0,Education,"We will create lakhs of new jobs for teachers, doctors, nurses, paramedics, technicians, instructors and administrators by expanding the education and health sectors."
+INC_2019_0008,INC,2019,0,Labour & Employment,We will increase funding for para-state workers and ensure all arrears are paid immediately.
+INC_2019_0009,INC,2019,0,Labour & Employment,We will address pending contentious issues regarding the salaries and work conditions of para-state workers.
+INC_2019_0010,INC,2019,0,Health,We will expand the ASHA programme and appoint a second ASHA worker in all villages with a population exceeding 2500 persons.
+INC_2019_0011,INC,2019,0,Infrastructure,We will provide world-class infrastructure in industrial hubs and cluster towns to trigger rapid growth of the manufacturing sector.
+INC_2019_0012,INC,2019,0,Labour & Employment,We will link the definition of MSMEs to employment.
+INC_2019_0013,INC,2019,0,Economy & Finance,"We will create an Enterprise Support Agency to help entrepreneurs with business support, incubation, access to technology, funding, and markets."
+INC_2019_0014,INC,2019,0,Labour & Employment,"We will exempt Micro and Small Enterprises from all applicable laws and regulations, except the Minimum Wages Act and tax laws, for a period of 3 years."
+INC_2019_0015,INC,2019,0,Labour & Employment,We will promote Mass Entrepreneurship and support entrepreneurs to replicate tried and tested business models.
+INC_2019_0016,INC,2019,0,Economy & Finance,We will reward businesses that create new jobs by lowering effective direct tax rates and CSR fund contributions.
+INC_2019_0017,INC,2019,0,Labour & Employment,We will provide fiscal incentives to businesses that employ a certain percentage of women.
+INC_2019_0018,INC,2019,0,Economy & Finance,We will reward export-oriented industries through tax rebates and incentives.
+INC_2019_0019,INC,2019,0,Economy & Finance,"We will establish an adequately capitalised Tourism Development Bank to provide low-cost, long-term funds for tourism-related businesses."
+INC_2019_0020,INC,2019,0,Economy & Finance,We will offer lower rates of corporate and personal income tax on tourism-related business income.
+INC_2019_0021,INC,2019,0,Energy & Environment,We will launch a Water Bodies Restoration Mission to create jobs.
+INC_2019_0022,INC,2019,0,Rural Development,We will launch a Wasteland Regeneration Mission to create jobs.
+INC_2019_0023,INC,2019,0,Labour & Employment,We will require businesses employing 100 persons or more to start an apprenticeship programme.
+INC_2019_0024,INC,2019,0,Labour & Employment,We will amend the CSR Rules to include Apprenticeship as an additional activity.
+INC_2019_0025,INC,2019,0,Youth & Sports,We will offer opportunities to youth to acquire skill-sets for new kinds of jobs emerging with new technologies.
+INC_2019_0026,INC,2019,0,Economy & Finance,We will increase the share of India’s manufacturing sector to 25 per cent of GDP within 5 years.
+INC_2019_0027,INC,2019,0,Infrastructure,We will work with State Governments to set up New Industrial Towns with required infrastructure.
+INC_2019_0028,INC,2019,0,Economy & Finance,"We will announce policies to help India retain its leading position in manufacturing engineering goods, petroleum products, gems & jewellery, pharmaceuticals, garments & textiles, and chemicals."
+INC_2019_0029,INC,2019,0,Economy & Finance,"We will announce policies to help India gain a leadership position in steel, metals, cement, machinery, electronic goods, computer hardware, and automobiles."
+INC_2019_0030,INC,2019,0,Economy & Finance,We will announce a ‘Make for the World’ policy inviting companies to invest in Exclusive Export-only Zones.
+INC_2019_0031,INC,2019,0,Economy & Finance,We will revive stalled projects to bring locked-up capital to use and generate employment.
+INC_2019_0032,INC,2019,0,Rural Development,We will promote the manufacture and export of traditional products like handloom products and handicrafts.
+INC_2019_0033,INC,2019,0,Economy & Finance,"We will acquire patents, create a patent pool, and make advanced technologies available to small and medium businesses."
+INC_2019_0034,INC,2019,0,Economy & Finance,We will review and repeal unnecessary rules and regulations made in the last 5 years to free industry and business.
+INC_2019_0035,INC,2019,0,Economy & Finance,We will review discretionary powers of tax authorities and investigative agencies to allow industry and business to function with freedom.
+INC_2019_0036,INC,2019,0,Infrastructure,We will augment the total length of national highways and increase the pace of construction.
+INC_2019_0037,INC,2019,0,Infrastructure,We will massively modernise all outdated railway infrastructure.
+INC_2019_0038,INC,2019,0,Infrastructure,We will use PPP models to increase the supply of roads and railways.
+INC_2019_0039,INC,2019,0,Energy & Environment,"We will review, re-formulate, and implement the policy on spectrum and natural resource exploration and extraction."
+INC_2019_0040,INC,2019,0,Energy & Environment,We will formulate a policy on Clean Energy in existing fossil fuel power plants and promote Green Energy.
+INC_2019_0041,INC,2019,0,Energy & Environment,We will enhance electricity availability in rural areas by encouraging investment in off-grid renewable power generation.
+INC_2019_0042,INC,2019,0,Energy & Environment,We will ensure every village and every home is electrified in the true sense.
+INC_2019_0043,INC,2019,0,Energy & Environment,We aim to substitute LPG used in homes with electricity and solar energy in the long term.
+INC_2019_0044,INC,2019,0,Urban Development,We will formulate a comprehensive policy on Urbanisation.
+INC_2019_0045,INC,2019,0,Urban Development,"We will support State Governments to build new towns, cities, and satellite towns."
+INC_2019_0046,INC,2019,0,Governance & Anti-Corruption,We will introduce a new model of urban governance with a directly elected mayor with a fixed 5-year term and an elected Council.
+INC_2019_0047,INC,2019,0,Governance & Anti-Corruption,"We will enforce the 74th Amendment and ensure the devolution of powers, functions, and funds to Municipalities and Corporations."
+INC_2019_0048,INC,2019,0,Urban Development,We will guarantee the Right to Housing for the urban poor and protect them from arbitrary eviction.
+INC_2019_0049,INC,2019,0,Women & Child Development,We will build night shelters for the homeless.
+INC_2019_0050,INC,2019,0,Urban Development,"We will launch a Slum Upgradation and Transformation Scheme to ensure basic services and replace huts with proper houses, roads, and public facilities."
+INC_2019_0051,INC,2019,0,Women & Child Development,"We will make public spaces, transport, and facilities in towns and cities safe for women, children, persons with disabilities, migrants, and marginalised sections."
+INC_2019_0052,INC,2019,0,Women & Child Development,We will appoint more women to government and municipal jobs in towns and cities.
+INC_2019_0053,INC,2019,0,Urban Development,"We will formulate and implement a policy on urban transport emphasizing metro rail, suburban rail, electric vehicles, and public/shared transport."
+INC_2019_0054,INC,2019,0,Energy & Environment,We will encourage non-motorised transport like walking and cycling.
+INC_2019_0055,INC,2019,0,Infrastructure,We will empower Panchayats and Municipalities to design and execute infrastructure projects.
+INC_2019_0056,INC,2019,0,Rural Development,We will establish a non-lapsable Rural Infrastructure Fund to provide loans and grants to specific infrastructure projects.
+INC_2019_0057,INC,2019,0,Labour & Employment,We will launch MGNREGA 3.0 to increase guaranteed employment days up to 150 days where 100 days have been achieved.
+INC_2019_0058,INC,2019,0,Rural Development,We will use MGNREGA labour in the Waterbodies Restoration Mission and the Wasteland Regeneration Mission.
+INC_2019_0059,INC,2019,0,Rural Development,"We will use MGNREGA funds to build public assets such as primary health centres, classrooms, and libraries."
+INC_2019_0060,INC,2019,0,Rural Development,We will connect all villages and habitations with a population of 250 with a road under PMGSY.
+INC_2019_0061,INC,2019,0,Infrastructure,We will provide broadband connectivity to all village Panchayats by 2021.
+INC_2019_0062,INC,2019,0,Health,We will increase the allocation to the National Drinking Water Mission.
+INC_2019_0063,INC,2019,0,Rural Development,We will pass the Right to Homestead Act to provide a homestead for every household without a home or land.
+INC_2019_0064,INC,2019,0,Labour & Employment,We will encourage and support micro and small enterprises that collectivise unorganised sector workers.
+INC_2019_0065,INC,2019,0,Labour & Employment,We will ensure notified minimum wages are paid to workers in the unorganised sector.
+INC_2019_0066,INC,2019,0,Labour & Employment,We will ratify ILO Convention 87 (Freedom of Association) and ILO Convention 98 (Right to Organise and Collective Bargaining).
+INC_2019_0067,INC,2019,0,Urban Development,"We will implement the Street Vendors Act, 2014 in letter and spirit."
+INC_2019_0068,INC,2019,0,Rural Development,We will guarantee portability for the ration cards of migrant workers.
+INC_2019_0069,INC,2019,0,Labour & Employment,"We will establish Aajeevika Kendras (Livelihood Centres) in all major cities and towns for migrant workers to access government services, healthcare, crèches, skill development, and legal services."
+INC_2019_0070,INC,2019,0,Rural Development,We will waive outstanding farm loans in all States.
+INC_2019_0071,INC,2019,0,Rural Development,"We will ensure remunerative prices, lower input costs, and assured access to institutional credit to free farmers from indebtedness."
+INC_2019_0072,INC,2019,0,Governance & Anti-Corruption,We will ensure debt is treated as a civil liability and no criminal proceedings will be instituted against farmers unable to pay their debt.
+INC_2019_0073,INC,2019,0,Agriculture,We will present a separate Kisan Budget.
+INC_2019_0074,INC,2019,0,Agriculture,We will establish a permanent National Commission on Agricultural Development and Planning.
+INC_2019_0075,INC,2019,0,Rural Development,We will establish a Commission on Marginal Farmers and Agricultural Labour.
+INC_2019_0076,INC,2019,0,Agriculture,"We will redesign the crop insurance scheme and direct insurance companies to charge premiums on a ‘no profit, no loss’ basis."
+INC_2019_0077,INC,2019,0,Rural Development,"We will work with State Governments to digitise land ownership and land tenancy records, recognising the rights of women farmers."
+INC_2019_0078,INC,2019,0,Rural Development,"We will promote Farmer Producer Companies/Organisations to enable farmers to access inputs, technology, and markets."
+INC_2019_0079,INC,2019,0,Rural Development,"We will review agricultural input prices, extend subsidies where necessary, and establish facilities to hire farm machinery."
+INC_2019_0080,INC,2019,0,Agriculture,We will repeal the APMC Act and make trade in agricultural produce free from all restrictions.
+INC_2019_0081,INC,2019,0,Rural Development,We will establish farmers’ markets with adequate infrastructure in large villages and small towns.
+INC_2019_0082,INC,2019,0,Agriculture,We will formulate a policy on the export and import of agricultural products to support farmers and enhance their income.
+INC_2019_0083,INC,2019,0,Rural Development,"We will enable the construction of modern warehouses, cold storage, and food processing facilities in every block."
+INC_2019_0084,INC,2019,0,Rural Development,We will revive and strengthen the Agricultural Extension Services.
+INC_2019_0085,INC,2019,0,Rural Development,"We will encourage farmers to diversify into the production of local varieties of millets and pulses for PDS, Mid-Day Meals, and ICDS."
+INC_2019_0086,INC,2019,0,Rural Development,"We will promote horticulture, pisciculture, and sericulture for diversification and greater income."
+INC_2019_0087,INC,2019,0,Rural Development,We will launch a national project to double the value of production in dairying and poultry in 5 years.
+INC_2019_0088,INC,2019,0,Agriculture,"We will promote organic farming, encourage mixed fertilizers and pesticides, and support verification of organic products."
+INC_2019_0089,INC,2019,0,Agriculture,"We will double funding in 5 years for agricultural teaching, R&D, and applied sciences."
+INC_2019_0090,INC,2019,0,Rural Development,We will establish a College of Agriculture and a College of Veterinary Sciences in every district.
+INC_2019_0091,INC,2019,0,Rural Development,"We will remove distortions in the Land Acquisition Act, 2013 and the Forest Rights Act, 2006 to restore their original purposes."
+INC_2019_0092,INC,2019,0,Economy & Finance,"We will replace the Essential Commodities Act, 1955 with an enabling law invocable only in emergencies."
+INC_2019_0093,INC,2019,0,Rural Development,"We will redesign MGNREGA to increase guaranteed employment days up to 150 days, use labour for water and wasteland missions, and build village-level assets."
+INC_2019_0094,INC,2019,0,Economy & Finance,We will achieve the fiscal deficit target of 3 per cent of GDP by 2020-21 and contain the revenue deficit under 1 per cent of GDP.
+INC_2019_0095,INC,2019,0,Governance & Anti-Corruption,We will faithfully report off-Budget and extra-Budget borrowings with justification.
+INC_2019_0096,INC,2019,0,Economy & Finance,We will reverse unwarranted interference into the functioning of the RBI and respect its autonomy.
+INC_2019_0097,INC,2019,0,Governance & Anti-Corruption,We will require the RBI Governor to periodically render an account to a committee of Parliament.
+INC_2019_0098,INC,2019,0,Economy & Finance,We will provide a conducive policy climate to recognise the contributions of the private and public sectors and promote entrepreneurship.
+INC_2019_0099,INC,2019,0,Economy & Finance,We will extend full support to the private sector to revive entrepreneurship.
+INC_2019_0100,INC,2019,0,Infrastructure,"We will ensure adequate government expenditure on roads, railways, waterways, drinking water, sanitation, healthcare, education, and security."
+INC_2019_0101,INC,2019,0,Economy & Finance,We will create a policy environment to encourage domestic consumption.
+INC_2019_0102,INC,2019,0,Economy & Finance,We will adopt a foreign trade policy to ensure exports become a key driver of economic growth.
+INC_2019_0103,INC,2019,0,Economy & Finance,We will encourage household saving to achieve a savings level of 40 per cent of GDP and a Gross Capital Formation level of 35 per cent of GDP.
+INC_2019_0104,INC,2019,0,Economy & Finance,We will work with banks and insurance companies to introduce simple financial products for households.
+INC_2019_0105,INC,2019,0,Economy & Finance,"We will welcome FDI in all sectors, subject to national security exceptions."
+INC_2019_0106,INC,2019,0,Economy & Finance,We will intervene in markets only where absolutely necessary to prevent misallocation of resources.
+INC_2019_0107,INC,2019,0,Economy & Finance,"We will review all laws, rules, and regulations governing investments within 3 months and repeal outdated ones."
+INC_2019_0108,INC,2019,0,Economy & Finance,We will review and restate the Foreign Trade Policy within 3 months.
+INC_2019_0109,INC,2019,0,Economy & Finance,We will work with the RBI to re-start credit delivery and ensure sufficient liquidity and cash in circulation.
+INC_2019_0110,INC,2019,0,Economy & Finance,We will enact and enforce a comprehensive Law on Doing Business in India.
+INC_2019_0111,INC,2019,0,Economy & Finance,We will endeavor to bring every Fortune 500 company to set up a business in India.
+INC_2019_0112,INC,2019,0,Economy & Finance,We will completely withdraw the Angel Tax imposed on Start-Ups.
+INC_2019_0113,INC,2019,0,Economy & Finance,We will devise a rehabilitation plan for MSMEs severely affected by demonetisation and GST.
+INC_2019_0114,INC,2019,0,Economy & Finance,"We will disinvest from non-core, non-strategic central public sector enterprises."
+INC_2019_0115,INC,2019,0,Economy & Finance,We will induct good economic policy makers and managers into the administration and give them autonomy.
+INC_2019_0116,INC,2019,0,Economy & Finance,We will get the government out of gratuitous market interventions and address notable market failures through regulation.
+INC_2019_0117,INC,2019,0,Governance & Anti-Corruption,We will build capacity in government for taxation and delivery of public goods and services.
+INC_2019_0118,INC,2019,0,Labour & Employment,We will lift 10 crore people out of poverty between 2019 and 2024.
+INC_2019_0119,INC,2019,0,Economy & Finance,"We will transfer Rs. 72,000 a year to the poorest 20 per cent of families in India under the Nyuntam Aay Yojana (NYAY)."
+INC_2019_0120,INC,2019,0,Women & Child Development,We will ensure NYAY funds are transferred to the bank accounts of women in the beneficiary families.
+INC_2019_0121,INC,2019,0,Governance & Anti-Corruption,We will appoint an independent panel of experts to oversee the design and implementation of NYAY.
+INC_2019_0122,INC,2019,0,Social Justice & Minorities,We will implement NYAY as a joint scheme of the Central and State Governments.
+INC_2019_0123,INC,2019,0,Economy & Finance,We will enact the Direct Taxes Code in the first year of our government.
+INC_2019_0124,INC,2019,0,Economy & Finance,We will levy taxes at reasonable and progressive rates under the Direct Taxes Code.
+INC_2019_0125,INC,2019,0,Economy & Finance,We will replace the current GST laws with a GST 2.0 regime.
+INC_2019_0126,INC,2019,0,Economy & Finance,"We will implement a single, moderate, standard rate of tax on all goods and services under GST 2.0."
+INC_2019_0127,INC,2019,0,Economy & Finance,We will levy a special rate of duty on demerit goods under GST 2.0.
+INC_2019_0128,INC,2019,0,Economy & Finance,"We will bring Real Estate, Petroleum Products, Tobacco, and Liquor within the ambit of GST 2.0."
+INC_2019_0129,INC,2019,0,Economy & Finance,We will exempt or zero-rate essential goods of mass consumption and essential services under GST 2.0.
+INC_2019_0130,INC,2019,0,Economy & Finance,We will zero-rate all exported goods and services under GST 2.0.
+INC_2019_0131,INC,2019,0,Economy & Finance,We will ensure threshold exemptions for small businesses are not affected by inter-state supply.
+INC_2019_0132,INC,2019,0,Economy & Finance,We will remove GST liability on purchasers through the reverse charge mechanism for supplies from unregistered businesses.
+INC_2019_0133,INC,2019,0,Economy & Finance,We will abolish the e-way bill.
+INC_2019_0134,INC,2019,0,Governance & Anti-Corruption,We will allocate a share of GST revenues to Panchayats and Municipalities.
+INC_2019_0135,INC,2019,0,Economy & Finance,"We will require taxpayers to file a simple, single quarterly return and an annual return."
+INC_2019_0136,INC,2019,0,Economy & Finance,We will serve the GST Council with a permanent secretariat of tax experts.
+INC_2019_0137,INC,2019,0,Economy & Finance,"We will ensure DTC and GST 2.0 are essentially civil laws with prosecution only for criminal conspiracy, corruption, or fraud."
+INC_2019_0138,INC,2019,0,Economy & Finance,"We will comprehensively review the concept, role, and functions of Public Sector Banks."
+INC_2019_0139,INC,2019,0,Economy & Finance,We will amalgamate Public Sector Banks so that there are only 6-8 PSBs with a national presence.
+INC_2019_0140,INC,2019,0,Governance & Anti-Corruption,We will review the governance structure of PSBs and abolish the Banking Board Bureau.
+INC_2019_0141,INC,2019,0,Economy & Finance,We will ensure PSBs continue to lend to priority and disadvantaged sectors.
+INC_2019_0142,INC,2019,0,Economy & Finance,We will review and strengthen the regulatory regime of NBFCs.
+INC_2019_0143,INC,2019,0,Economy & Finance,"We will develop a robust corporate bond market, municipal bond market, and infrastructure investment trusts."
+INC_2019_0144,INC,2019,0,Economy & Finance,We will promote new Development Banks to provide long-term credit to development and infrastructure projects.
+INC_2019_0145,INC,2019,0,Economy & Finance,We will set up an India Global Companies Fund to support Indian-owned technology companies to scale up globally.
+INC_2019_0146,INC,2019,0,Economy & Finance,We will encourage the establishment of State-level and Regional-level small banks to provide credit to MSMEs.
+INC_2019_0147,INC,2019,0,Economy & Finance,We will encourage State Governments to revive State Financial Corporations to provide long-term credit to MSMEs.
+INC_2019_0148,INC,2019,0,Economy & Finance,We will strengthen and technologically-enable Regional Rural Banks and Banking Correspondents to accelerate financial inclusion.
+INC_2019_0149,INC,2019,0,Economy & Finance,We will work with the RBI to simplify the KYC process and avoid repetitive verification.
+INC_2019_0150,INC,2019,0,Economy & Finance,We will develop a deep and broad securities market offering safe and adequate returns to investors.
+INC_2019_0151,INC,2019,0,Economy & Finance,We will adopt policies to attract more Indian and foreign investment in our financial markets.
+INC_2019_0152,INC,2019,0,Economy & Finance,"We will take hard measures to prevent fraud in banking, securities, and financial markets and deliver swift punishment to offenders."
+INC_2019_0153,INC,2019,0,Economy & Finance,We will work with industry to increase expenditure on science and technology to 2 per cent of GDP.
+INC_2019_0154,INC,2019,0,Education,"We will allocate sufficient funds to promote science, technology, and innovation."
+INC_2019_0155,INC,2019,0,Labour & Employment,We will fill all current vacancies for researchers and scientists within 12 months.
+INC_2019_0156,INC,2019,0,Education,"We will strengthen Science Departments in NAAC-graded colleges and universities with funds for equipment, labs, and teachers."
+INC_2019_0157,INC,2019,0,Economy & Finance,We will strengthen patent laws and support Indian inventors to secure international patent protection.
+INC_2019_0158,INC,2019,0,Economy & Finance,We will create a patent pool and allow businesses access to patented technology at affordable costs.
+INC_2019_0159,INC,2019,0,Economy & Finance,We will revitalise the National Innovation Council to formulate and implement strategies for innovation.
+INC_2019_0160,INC,2019,0,Economy & Finance,"We will establish a National Mission focused on sunrise technologies like Big Data, Machine Learning, IoT, and 3-D Printing."
+INC_2019_0161,INC,2019,0,Rural Development,We will enhance the India Inclusive Innovation Fund to support innovative enterprises and grassroots innovation.
+INC_2019_0162,INC,2019,0,Governance & Anti-Corruption,We will set up a Scenario Planning and Strategic Futures Office to aid informed policy making.
+INC_2019_0163,INC,2019,0,Youth & Sports,We will set up a National Data Science Institute to train world-class Data Scientists.
+INC_2019_0164,INC,2019,0,Rural Development,We will establish a separate Ministry of Fisheries and Welfare of Fisherfolk.
+INC_2019_0165,INC,2019,0,Rural Development,We will constitute a National Fisherfolk Commission to promote fishing and address indebtedness.
+INC_2019_0166,INC,2019,0,Rural Development,We will recognise inland fishing and aquaculture as agriculture and extend all agricultural benefits to them.
+INC_2019_0167,INC,2019,0,Foreign Policy,We will establish a permanent mechanism with neighbouring countries to resolve problems faced by fisherfolk and eliminate conflict.
+INC_2019_0168,INC,2019,0,Defence & Security,We will increase defence spending to meet the requirements of the Armed Forces.
+INC_2019_0169,INC,2019,0,Defence & Security,We will expedite all modernisation programmes of the armed forces transparently.
+INC_2019_0170,INC,2019,0,Defence & Security,We will take strategic and hard measures to defend the territorial integrity of India and ensure the safety of our people.
+INC_2019_0171,INC,2019,0,Defence & Security,"We will evolve suitable policies to address data, cyber, financial, communication, and trade route security."
+INC_2019_0172,INC,2019,0,Defence & Security,We will establish the office of Chief of Defence Staff (CDS) as the principal adviser to the Government on defence.
+INC_2019_0173,INC,2019,0,Defence & Security,We will provide a statutory basis to the National Security Council and the office of the National Security Adviser.
+INC_2019_0174,INC,2019,0,Defence & Security,We will re-establish the National Security Advisory Board (NSAB) with a statutory basis and appoint experts from different disciplines.
+INC_2019_0175,INC,2019,0,Defence & Security,We will rapidly expand domestic capacity in the public and pre-qualified private sectors to manufacture defence and security equipment.
+INC_2019_0176,INC,2019,0,Defence & Security,We will set up the National Counter-Terrorism Centre (NCTC) within 3 months.
+INC_2019_0177,INC,2019,0,Defence & Security,We will make NATGRID operational by December 2019.
+INC_2019_0178,INC,2019,0,Defence & Security,We will take an uncompromising approach and hard measures to end terrorism and militant infiltration.
+INC_2019_0179,INC,2019,0,Defence & Security,We will fight violent Maoist activities while addressing developmental challenges and winning over cadres.
+INC_2019_0180,INC,2019,0,Social Justice & Minorities,We will put down caste or communal violence with a firm hand and bring instigators to justice.
+INC_2019_0181,INC,2019,0,Defence & Security,"We will work with State Governments to increase the strength of State police forces, fill vacancies, and equip and train them."
+INC_2019_0182,INC,2019,0,Social Justice & Minorities,"We will take strong action against crimes against women, SCs, STs, and minorities without fear or favour."
+INC_2019_0183,INC,2019,0,Governance & Anti-Corruption,"We will hold the District Administration responsible for riots, communal violence, and widespread breakdown of law and order."
+INC_2019_0184,INC,2019,0,Foreign Policy,"We will continue the policy of friendship, peaceful co-existence, non-alignment, and increased bilateral engagement."
+INC_2019_0185,INC,2019,0,Foreign Policy,"We will establish a National Council on Foreign Policy consisting of cabinet members, scholars, experts, and diplomats."
+INC_2019_0186,INC,2019,0,Foreign Policy,"We will work closely with all countries, particularly neighbours and G-20 countries, in multi-lateral forums."
+INC_2019_0187,INC,2019,0,Foreign Policy,We will make foreign trade an important element of foreign policy and significantly increase trade with other countries.
+INC_2019_0188,INC,2019,0,Foreign Policy,We will strengthen relations with other countries through enhanced economic cooperation and two-way investments.
+INC_2019_0189,INC,2019,0,Foreign Policy,"We will work with other countries to eliminate terrorist groups, terrorist acts, and cross-border terrorism."
+INC_2019_0190,INC,2019,0,Foreign Policy,We will persuade other countries to compel Pakistan to verifiably end its support to terrorist groups.
+INC_2019_0191,INC,2019,0,Foreign Policy,We will pass a Law on Asylum consistent with international treaties and conventions.
+INC_2019_0192,INC,2019,0,Foreign Policy,We will re-double efforts to win permanent membership for India in the UN Security Council and the Nuclear Suppliers Group.
+INC_2019_0193,INC,2019,0,Foreign Policy,"We will work with SAARC and ASEAN countries to enhance trade, investments, tourism, and cultural exchanges."
+INC_2019_0194,INC,2019,0,Foreign Policy,We will establish effective mechanisms with neighbouring countries to resolve problems faced by fishermen.
+INC_2019_0195,INC,2019,0,Foreign Policy,We will strengthen the Indian Council of Cultural Relations to project India’s soft power globally.
+INC_2019_0196,INC,2019,0,Foreign Policy,"We will significantly increase the size of the Foreign Service, induct domain experts, and open more missions abroad."
+INC_2019_0197,INC,2019,0,Defence & Security,"We will increase the strength of border guarding forces (BSF, SSB, ITBP, Assam Rifles) and post them on or close to the border."
+INC_2019_0198,INC,2019,0,Defence & Security,"We will construct modern, well-equipped Integrated Border Outposts and reduce the distance between them."
+INC_2019_0199,INC,2019,0,Defence & Security,We will reduce the posting period in high altitude border outposts to 3 months at a time.
+INC_2019_0200,INC,2019,0,Infrastructure,"We will accelerate the construction of border roads along all borders of India, especially the India-China border."
+INC_2019_0201,INC,2019,0,Defence & Security,We will enhance the capacity of the Border Roads Organisation and create separate divisions for the India-China and India-Myanmar borders.
+INC_2019_0202,INC,2019,0,Defence & Security,We will remove the anomalies in the implementation of One Rank One Pension (OROP).
+INC_2019_0203,INC,2019,0,Defence & Security,"We will formulate a policy of compensation for the families of martyrs, including full pay, funding children's education, a government job, and monetary compensation."
+INC_2019_0204,INC,2019,0,Defence & Security,We will allow Armed Forces personnel retiring after colour service lateral entry into the civil services based on qualifications.
+INC_2019_0205,INC,2019,0,Defence & Security,We will allow Armed Forces personnel retiring before age 40 to enter the Central Armed Police Forces at suitable levels.
+INC_2019_0206,INC,2019,0,Defence & Security,We will substantially expand the capacity of Armed Forces medical corps and hospitals for ex-servicemen and their families.
+INC_2019_0207,INC,2019,0,Defence & Security,We will revise the disability determination procedure for injured armed forces personnel and withdraw all pending appeals filed by the Ministry of Defence.
+INC_2019_0208,INC,2019,0,Defence & Security,We will increase the strength of the Central Armed Police Forces to meet growing border and internal security requirements.
+INC_2019_0209,INC,2019,0,Defence & Security,"We will ensure an adequate number of CAPF battalions are on rest, recuperation, and training at any given time."
+INC_2019_0210,INC,2019,0,Women & Child Development,"We will ensure a minimum of 33 per cent women representation in the force strength of CISF, CRPF, and BSF."
+INC_2019_0211,INC,2019,0,Health,"We will enhance health, education, and housing facilities for CAPF personnel and their families to bring them on par with the Armed Forces."
+INC_2019_0212,INC,2019,0,Education,We will set up schools on the model of Sainik schools for the children of CAPF personnel.
+INC_2019_0213,INC,2019,0,Defence & Security,We will enhance the status of CAPF jawans and benefits to their families in cases of death in action.
+INC_2019_0214,INC,2019,0,Governance & Anti-Corruption,We will set up a Committee to draft new Service Rules for CAPF personnel.
+INC_2019_0215,INC,2019,0,Social Justice & Minorities,We will protect the rich diversity of India’s art and culture and oppose censorship.
+INC_2019_0216,INC,2019,0,Social Justice & Minorities,"We will provide sufficient support and funds to preserve and promote the art, culture, and heritage of unique groups."
+INC_2019_0217,INC,2019,0,Social Justice & Minorities,We will provide fellowships to artists and craftspeople working in traditional arts and crafts.
+INC_2019_0218,INC,2019,0,Social Justice & Minorities,We will guarantee artistic freedom and protect artists from censorship or retribution by vigilante groups.
+INC_2019_0219,INC,2019,0,Governance & Anti-Corruption,"We will grant autonomy, including financial autonomy, to cultural institutions."
+INC_2019_0220,INC,2019,0,Education,We will promote art education in schools and colleges and support institutions that exclusively teach the arts.
+INC_2019_0221,INC,2019,0,Education,We will encourage scholars to study archaeology and anthropology by providing more scholarships and fellowships.
+INC_2019_0222,INC,2019,0,Education,"We will support the establishment of museums, art galleries, libraries, and archives and ensure they are accessible."
+INC_2019_0223,INC,2019,0,Foreign Policy,We will make every effort to retrieve India’s stolen art.
+INC_2019_0224,INC,2019,0,Education,We will allocate funds to create digital archives of India’s art and culture.
+INC_2019_0225,INC,2019,0,Other,We will strengthen and enforce the Copyright Act and reconstitute the Copyright Board.
+INC_2019_0226,INC,2019,0,Infrastructure,We will provide more funds and human resources to the ASI and bring more historical monuments under its care.
+INC_2019_0227,INC,2019,0,Economy & Finance,We will introduce a special tax regime for tourism-related businesses and income.
+INC_2019_0228,INC,2019,0,Infrastructure,We will work with State Governments to improve infrastructure in and around places of tourist interest.
+INC_2019_0229,INC,2019,0,Youth & Sports,We will create young volunteer groups to guide and assist visitors at important places of tourist interest.
+INC_2019_0230,INC,2019,0,Foreign Policy,We will task India’s Missions abroad with encouraging more visitors to India.
+INC_2019_0231,INC,2019,0,Foreign Policy,We will expand the Visa-on-Arrival Scheme and charge no fee for tourist visas for a period of 3 years.
+INC_2019_0232,INC,2019,0,Foreign Policy,We will re-establish the Ministry of Overseas Indians to address the concerns of NRIs.
+INC_2019_0233,INC,2019,0,Foreign Policy,We will task India’s Missions abroad to pay special attention to the work safety and conditions of Indian citizens in foreign countries.
+INC_2019_0234,INC,2019,0,Foreign Policy,We will appoint a Committee of Overseas Indian Citizens to review the work of Missions regarding NRIs.
+INC_2019_0235,INC,2019,0,Education,We will review and expand higher education opportunities and review the fee structure for NRI children in India.
+INC_2019_0236,INC,2019,0,Economy & Finance,We will design and promote an NRI Invest Scheme and establish a single point of contact for NRI investments.
+INC_2019_0237,INC,2019,0,Governance & Anti-Corruption,We will re-constitute the National Integration Council to promote unity and fight divisive forces.
+INC_2019_0238,INC,2019,0,Social Justice & Minorities,We will set up an Inter-faith Council to promote respect for all religions and hold inter-faith dialogues.
+INC_2019_0239,INC,2019,0,Governance & Anti-Corruption,We will create an institutional framework for Central and State Governments to consult civil society organisations on policies and programmes.
+INC_2019_0240,INC,2019,0,Governance & Anti-Corruption,We will use modern technology to increase the role of civil society organisations in policy and decision-making.
+INC_2019_0241,INC,2019,0,Governance & Anti-Corruption,"We will restore the dignity, authority, and autonomy of independent institutions and make them accountable to Parliament."
+INC_2019_0242,INC,2019,0,Governance & Anti-Corruption,We will ensure transparent selection and appointment to independent bodies.
+INC_2019_0243,INC,2019,0,Governance & Anti-Corruption,We will amend the Anti-Defection Law to provide for instant disqualification of MLAs/MPs for disobedience to the party whip or withdrawing allegiance.
+INC_2019_0244,INC,2019,0,Governance & Anti-Corruption,We will introduce the requirement of public consultation before a Bill is introduced in Parliament.
+INC_2019_0245,INC,2019,0,Governance & Anti-Corruption,We will enact a Social Accountability Act to subject all government schemes and programmes to social audit.
+INC_2019_0246,INC,2019,0,Governance & Anti-Corruption,"We will amend the Aadhaar Act to restrict its use to government subsidies, benefits, and services, and allow alternate instruments of identification."
+INC_2019_0247,INC,2019,0,Governance & Anti-Corruption,We will ensure the Leader of the Opposition is a full-fledged member of the Lokpal selection committee.
+INC_2019_0248,INC,2019,0,Governance & Anti-Corruption,We will enforce anti-corruption laws without discrimination.
+INC_2019_0249,INC,2019,0,Governance & Anti-Corruption,"We will investigate deals entered into by the previous government, including the Rafale deal."
+INC_2019_0250,INC,2019,0,Governance & Anti-Corruption,We will investigate how scamsters were allowed to leave the country and take steps to bring them back.
+INC_2019_0251,INC,2019,0,Governance & Anti-Corruption,We will place before the people annually a statement on the implementation of manifesto promises.
+INC_2019_0252,INC,2019,0,Governance & Anti-Corruption,We will conduct and publish annual Social Audits of implemented programmes.
+INC_2019_0253,INC,2019,0,Governance & Anti-Corruption,We will review the RTI Act to omit diluting provisions and add provisions to strengthen it.
+INC_2019_0254,INC,2019,0,Governance & Anti-Corruption,We will appoint qualified persons from different sections of society as Information Commissioners.
+INC_2019_0255,INC,2019,0,Governance & Anti-Corruption,We will introduce a Diversity Index to assess and ensure diversity in all government bodies and public sector enterprises.
+INC_2019_0256,INC,2019,0,Governance & Anti-Corruption,We will pass an Anti-Discrimination Law to prohibit discrimination in the supply of public goods and services.
+INC_2019_0257,INC,2019,0,Governance & Anti-Corruption,"We will re-introduce and pass the Grievance Redressal Bill to provide for mandatory, time-bound grievance redressal."
+INC_2019_0258,INC,2019,0,Governance & Anti-Corruption,We will make rules to operationalise the Whistle-Blowers Protection Act and ensure it is not weakened.
+INC_2019_0259,INC,2019,0,Governance & Anti-Corruption,We will review the Seventh Schedule and build a consensus to transfer some legislative fields from the Concurrent List to the State List.
+INC_2019_0260,INC,2019,0,Governance & Anti-Corruption,We will reduce the size of Central Government Ministries and Departments where States have built sufficient capacity.
+INC_2019_0261,INC,2019,0,Governance & Anti-Corruption,"We will give primacy to State Governments in school education, primary and secondary healthcare, child nutrition, drinking water, sanitation, and electricity distribution."
+INC_2019_0262,INC,2019,0,Governance & Anti-Corruption,"We will establish Councils for Agriculture, Education, and Healthcare on the model of the GST Council."
+INC_2019_0263,INC,2019,0,Economy & Finance,We will implement the recommendations of the Fifteenth Finance Commission and urge States to implement their State Finance Commissions' recommendations.
+INC_2019_0264,INC,2019,0,Governance & Anti-Corruption,"We will prevail upon States to devolve funds, functions, and functionaries to Panchayats and Municipalities."
+INC_2019_0265,INC,2019,0,Governance & Anti-Corruption,"We will empower Panchayats and Municipalities by devolving funds, including a share of GST revenues."
+INC_2019_0266,INC,2019,0,Governance & Anti-Corruption,We will explore the possibility of direct central grants to Panchayats and Municipalities.
+INC_2019_0267,INC,2019,0,Rural Development,We will revive the Backward Regions Grant Fund and the Integrated Action Plan.
+INC_2019_0268,INC,2019,0,Rural Development,We will restore Special Category status to the North Eastern States.
+INC_2019_0269,INC,2019,0,Social Justice & Minorities,We will withdraw the Citizenship Amendment Bill.
+INC_2019_0270,INC,2019,0,Economy & Finance,We will enhance financial assistance to the Autonomous District Councils in the North Eastern States.
+INC_2019_0271,INC,2019,0,Rural Development,We will give Special Category status to Andhra Pradesh.
+INC_2019_0272,INC,2019,0,Governance & Anti-Corruption,We will grant full statehood to Puducherry.
+INC_2019_0273,INC,2019,0,Governance & Anti-Corruption,"We will amend the GNCTD Act, 1991 to ensure the Lieutenant Governor acts on the aid and advice of the Council of Ministers except on 3 reserved subjects."
+INC_2019_0274,INC,2019,0,Governance & Anti-Corruption,"We will establish a statutory Council for the UTs of Andaman & Nicobar Islands, Lakshadweep, Daman & Diu, and Dadra & Nagar Haveli to advise the Lieutenant Governor."
+INC_2019_0275,INC,2019,0,Governance & Anti-Corruption,We will remove pre-qualifications like minimum education for candidates at elections to local bodies.
+INC_2019_0276,INC,2019,0,Governance & Anti-Corruption,We will enhance the role of Gram Sabhas and make it obligatory for them to meet at least twice a year.
+INC_2019_0277,INC,2019,0,Rural Development,"We will ensure the authority of Gram Sabhas under PESA, the Forest Rights Act, and the Land Acquisition Act is obeyed and upheld."
+INC_2019_0278,INC,2019,0,Governance & Anti-Corruption,We will amend the Constitution to make the Supreme Court a Constitutional Court for cases involving constitutional interpretation and national importance.
+INC_2019_0279,INC,2019,0,Governance & Anti-Corruption,"We will amend the Constitution to establish a Court of Appeal between High Courts and the Supreme Court, sitting in 6 locations."
+INC_2019_0280,INC,2019,0,SC/ST/OBC,"We will enhance representation of women, SCs, STs, OBCs, and minorities at all levels of the judiciary."
+INC_2019_0281,INC,2019,0,Governance & Anti-Corruption,We will allocate sufficient funds annually for judiciary infrastructure.
+INC_2019_0282,INC,2019,0,Governance & Anti-Corruption,"We will fix the retirement age of High Court and Supreme Court judges, and judicial members in Tribunals, at 65 years."
+INC_2019_0283,INC,2019,0,Governance & Anti-Corruption,We will work with the judiciary to introduce modern technology and appoint professionals for court and roster management.
+INC_2019_0284,INC,2019,0,Governance & Anti-Corruption,We will encourage the judiciary to adopt technological tools to track cases and expedite hearings.
+INC_2019_0285,INC,2019,0,Governance & Anti-Corruption,"We will establish a National Judicial Commission comprising judges, jurists, and parliamentarians for the transparent selection of judges."
+INC_2019_0286,INC,2019,0,Governance & Anti-Corruption,We will establish an independent Judicial Complaints Commission by law to investigate complaints of misconduct against judges.
+INC_2019_0287,INC,2019,0,Governance & Anti-Corruption,We will decriminalise laws directed against civil violations and subject them to civil penalties.
+INC_2019_0288,INC,2019,0,Governance & Anti-Corruption,We will omit Section 499 of the IPC and make defamation a civil offence.
+INC_2019_0289,INC,2019,0,Governance & Anti-Corruption,We will omit Section 124A of the IPC (sedition).
+INC_2019_0290,INC,2019,0,Governance & Anti-Corruption,We will amend laws allowing detention without trial to align with the Constitution and International Human Rights Conventions.
+INC_2019_0291,INC,2019,0,Governance & Anti-Corruption,We will pass a Prevention of Torture Act to prohibit third-degree methods and punish police excesses.
+INC_2019_0292,INC,2019,0,Governance & Anti-Corruption,"We will amend AFSPA to balance security forces' powers with human rights and remove immunity for enforced disappearance, sexual violence, and torture."
+INC_2019_0293,INC,2019,0,Governance & Anti-Corruption,We will amend laws to subject all investigation agencies to the same restrictions imposed on the police by the CrPC and Evidence Act.
+INC_2019_0294,INC,2019,0,Governance & Anti-Corruption,We will amend the CrPC to affirm the principle that 'Bail is the rule and jail is the exception'.
+INC_2019_0295,INC,2019,0,Governance & Anti-Corruption,We will immediately release undertrial prisoners facing charges punishable by up to 3 years imprisonment who have spent 3 months in prison.
+INC_2019_0296,INC,2019,0,Governance & Anti-Corruption,We will immediately release undertrial prisoners facing charges punishable by 3 to 7 years imprisonment who have spent 6 months in prison.
+INC_2019_0297,INC,2019,0,Governance & Anti-Corruption,We will institute comprehensive prison reforms recognizing prisoners' human and legal rights.
+INC_2019_0298,INC,2019,0,Governance & Anti-Corruption,We will scrap the Electoral Bond Scheme.
+INC_2019_0299,INC,2019,0,Governance & Anti-Corruption,We will set up a National Election Fund to allocate funds to recognised political parties based on criteria laid down by law.
+INC_2019_0300,INC,2019,0,Governance & Anti-Corruption,We will ensure EVMs and VVPATs are tamperproof and match the count in at least 50 per cent of EVMs against VVPAT slips during counting.
+INC_2019_0301,INC,2019,0,Governance & Anti-Corruption,We will allocate substantially more free airtime on All India Radio and Doordarshan to recognised political parties during elections.
+INC_2019_0302,INC,2019,0,Governance & Anti-Corruption,We will consult State Governments to reach a consensus on police reforms and pass a Model Police Act.
+INC_2019_0303,INC,2019,0,Governance & Anti-Corruption,"We will make police forces modern, technology-enabled, people-friendly, and upholders of human rights through the Model Police Act."
+INC_2019_0304,INC,2019,0,Governance & Anti-Corruption,We will make State police forces accountable to an independent Police Accountability Commission.
+INC_2019_0305,INC,2019,0,Governance & Anti-Corruption,We will decentralise the police force and involve the community in its oversight.
+INC_2019_0306,INC,2019,0,Governance & Anti-Corruption,"We will mandate investigations into communal riots, lynchings, and gang rapes by a special wing of the State police under direct command of State Headquarters."
+INC_2019_0307,INC,2019,0,Defence & Security,We will work with State Governments to augment police force sizes and fill current vacancies within 18 months.
+INC_2019_0308,INC,2019,0,Governance & Anti-Corruption,We will ensure State police forces reflect the diversity of the State's population and give greater representation to under-represented sections.
+INC_2019_0309,INC,2019,0,Women & Child Development,We will ensure State police forces reserve 33 per cent of all vacancies in direct recruitment and promotion for women.
+INC_2019_0310,INC,2019,0,Governance & Anti-Corruption,"We will amend the Press Council of India Act to strengthen self-regulation, protect journalists' freedom, and guard against government interference."
+INC_2019_0311,INC,2019,0,Governance & Anti-Corruption,We will empower the Press Council of India to deal with fake news and paid news.
+INC_2019_0312,INC,2019,0,Governance & Anti-Corruption,"We will formulate and enforce a Code of Conduct for reporting during natural disasters, communal conflicts, riots, terrorist attacks, and war."
+INC_2019_0313,INC,2019,0,Governance & Anti-Corruption,We will pass a law to curb monopolies and cross-ownership in the media and refer suspected cases to the Competition Commission.
+INC_2019_0314,INC,2019,0,Governance & Anti-Corruption,We will pass a law to preserve Internet freedom and prevent arbitrary shutdowns.
+INC_2019_0315,INC,2019,0,Governance & Anti-Corruption,We will require police to extend protection to journalists working in conflict areas or investigating matters of public interest.
+INC_2019_0316,INC,2019,0,Governance & Anti-Corruption,We will amend the Cinematograph Act to restrict film censorship to grounds of national security and obscenity.
+INC_2019_0317,INC,2019,0,Governance & Anti-Corruption,We will scrap the Niti Aayog and constitute a new Planning Commission to formulate perspective plans.
+INC_2019_0318,INC,2019,0,Governance & Anti-Corruption,We will make the new Planning Commission a lean organisation with renowned economists and a maximum of 100 support staff.
+INC_2019_0319,INC,2019,0,Women & Child Development,We will pass a Constitution Amendment Bill to reserve 33 per cent of seats in the Lok Sabha and State Legislative Assemblies for women.
+INC_2019_0320,INC,2019,0,Women & Child Development,We will amend Service Rules to reserve 33 per cent of Central Government appointments for women.
+INC_2019_0321,INC,2019,0,Women & Child Development,We will enforce the Equal Remuneration Act and review laws to ensure men and women are paid the same wage for similar work.
+INC_2019_0322,INC,2019,0,Labour & Employment,We will stipulate that every Special Economic Zone must have working women’s hostels and safe transport facilities.
+INC_2019_0323,INC,2019,0,Women & Child Development,We will repeal any provision of law that prohibits night shifts for women.
+INC_2019_0324,INC,2019,0,Women & Child Development,We will build sufficient night shelters for migrant women workers.
+INC_2019_0325,INC,2019,0,Women & Child Development,We will provide adequate safe and hygienic public toilets for women in towns and cities.
+INC_2019_0326,INC,2019,0,Women & Child Development,"We will install sanitary napkin vending machines in public spaces, schools, and colleges."
+INC_2019_0327,INC,2019,0,Women & Child Development,"We will review the Sexual Harassment of Women at Workplaces Act, 2013 and extend it to all workplaces."
+INC_2019_0328,INC,2019,0,Governance & Anti-Corruption,We will pass model legislation to establish a separate investigative agency for heinous crimes against women and children.
+INC_2019_0329,INC,2019,0,Women & Child Development,We will launch NRLM-2 to make Self-Help Groups a key instrument for women's economic empowerment.
+INC_2019_0330,INC,2019,0,Women & Child Development,"We will implement a programme to provide a dignified and secure life for single, widowed, divorced, abandoned, or destitute women."
+INC_2019_0331,INC,2019,0,Women & Child Development,We will appoint an Adhikar Maitri in every Panchayat to serve as a paralegal for women's legal rights.
+INC_2019_0332,INC,2019,0,Social Justice & Minorities,We will pass legislation to make marriage registration compulsory and enforce the law prohibiting child marriages.
+INC_2019_0333,INC,2019,0,Women & Child Development,We will expand ICDS and provide a crèche in every Anganwadi based on need and demand.
+INC_2019_0334,INC,2019,0,SC/ST/OBC,"We will set up an Equal Opportunities Commission to recommend and implement affirmative action strategies for SCs, STs, and OBCs."
+INC_2019_0335,INC,2019,0,Governance & Anti-Corruption,We will pass a law to restore the original purpose of the 200-point roster system and implement it for the institution as a whole.
+INC_2019_0336,INC,2019,0,SC/ST/OBC,"We will fill all backlog vacancies reserved for SCs, STs, and OBCs in government and PSUs within 12 months."
+INC_2019_0337,INC,2019,0,SC/ST/OBC,"We will amend the Constitution to provide for reservation in promotion posts for SCs, STs, and OBCs."
+INC_2019_0338,INC,2019,0,Rural Development,We will acquire panchami and mahar lands occupied by non-Dalits and distribute them to SCs and STs.
+INC_2019_0339,INC,2019,0,Rural Development,"We will provide basic amenities like water, sanitation, electricity, and internal roads in every SC and ST habitation."
+INC_2019_0340,INC,2019,0,Social Justice & Minorities,We will pay special attention to the educational and health needs of Scheduled Tribes.
+INC_2019_0341,INC,2019,0,SC/ST/OBC,We will extend the Rajiv Gandhi National Fellowship to scholars belonging to the OBCs.
+INC_2019_0342,INC,2019,0,Social Justice & Minorities,"We will require public schools to offer English as a language of study in Classes VI to XII to enable SCs, STs, and OBCs to compete as equals."
+INC_2019_0343,INC,2019,0,SC/ST/OBC,"We will pass a law to provide reservation for SCs, STs, and OBCs in private higher education institutions."
+INC_2019_0344,INC,2019,0,Social Justice & Minorities,"We will review school curricula to include texts on the history, culture, and contributions of SCs and STs."
+INC_2019_0345,INC,2019,0,Rural Development,"We will implement the Forest Rights Act, 2006 in letter and spirit to secure rights for Scheduled Tribes."
+INC_2019_0346,INC,2019,0,Energy & Environment,We will remove inconsistencies between the Forest Rights Act and the CAMPA Act and reaffirm the role of the Gram Sabha.
+INC_2019_0347,INC,2019,0,Rural Development,We will conduct a time-bound review of all rejected IFR/CFR claims under the Forest Rights Act and dispose of them within 6 months.
+INC_2019_0348,INC,2019,0,Rural Development,We will stop the eviction of 18.9 lakh households facing imminent eviction under the Forest Rights Act.
+INC_2019_0349,INC,2019,0,Rural Development,We will establish a National Commission for Non-Timber Forest Produce and offer Minimum Support Prices to improve Adivasi livelihoods.
+INC_2019_0350,INC,2019,0,SC/ST/OBC,"We will ensure a fair share of government procurement and contracts is given to SCs, STs, and OBCs."
+INC_2019_0351,INC,2019,0,SC/ST/OBC,We will pass a law requiring transparent disclosure of allocations to SCs and STs in budget documents and prohibit the diversion of such funds.
+INC_2019_0352,INC,2019,0,Foreign Policy,We will take the path of dialogue to understand the aspirations of the people of Jammu & Kashmir and find an honourable solution.
+INC_2019_0353,INC,2019,0,Foreign Policy,"We will adopt a two-pronged approach of uncompromising firmness on the border to end infiltration, and absolute fairness in dealing with the demands of the people."
+INC_2019_0354,INC,2019,0,Defence & Security,"We will review the deployment of armed forces, move more troops to the border, and reduce the presence of the Army and CAPFs in the Kashmir Valley."
+INC_2019_0355,INC,2019,0,Governance & Anti-Corruption,We will review AFSPA and the Disturbed Areas Act in J&K to balance security and human rights.
+INC_2019_0356,INC,2019,0,Foreign Policy,We will find an innovative federal solution for J&K through patient dialogue and talks with all stakeholders.
+INC_2019_0357,INC,2019,0,Foreign Policy,We will offer talks without pre-conditions to the people of J&K and appoint 3 interlocutors from civil society.
+INC_2019_0358,INC,2019,0,Labour & Employment,"We will renew initiatives like UDAAN, HIMAYAT, and UMMEED to impart skills and create economic opportunities for the youth of J&K."
+INC_2019_0359,INC,2019,0,Governance & Anti-Corruption,We will hold free and fair elections to the J&K State Legislative Assembly immediately.
+INC_2019_0360,INC,2019,0,Governance & Anti-Corruption,"We will ensure the safety and rights of students, traders, and others from J&K in the rest of India."
+INC_2019_0361,INC,2019,0,Rural Development,We will formulate an industrial policy for the North Eastern States.
+INC_2019_0362,INC,2019,0,Governance & Anti-Corruption,We will ensure no citizen of India is denied inclusion in the final National Register of Citizens.
+INC_2019_0363,INC,2019,0,Foreign Policy,We will address illegal immigration into the NES through consultation and evolve a consensus on legislative measures to secure indigenous identities.
+INC_2019_0364,INC,2019,0,Defence & Security,"We will strengthen the security of the NES borders with Bangladesh, Myanmar, and China, and resolve border issues through dialogue."
+INC_2019_0365,INC,2019,0,Foreign Policy,We will resolve pending inter-state and boundary issues in the NES through dialogue or mediation.
+INC_2019_0366,INC,2019,0,Economy & Finance,"We will take bold measures to enhance trade, especially border trade, with neighbouring countries for the NES."
+INC_2019_0367,INC,2019,0,Rural Development,We will strengthen the North Eastern Council and expand its original mandate.
+INC_2019_0368,INC,2019,0,Governance & Anti-Corruption,We will comprehensively review policies and special programmes in the NES and make necessary changes.
+INC_2019_0369,INC,2019,0,Infrastructure,"We will substantially increase budget outlays for infrastructure and social sector development in the NES, especially for railways, roads, education, and healthcare."
+INC_2019_0370,INC,2019,0,Rural Development,"We will leverage the bio-diversity of the NES to generate livelihood opportunities in sustainable agriculture, horticulture, and organic farming."
+INC_2019_0371,INC,2019,0,Energy & Environment,We will use modern technology to harness the waters of the Brahmaputra and find a permanent solution to floods and soil erosion.
+INC_2019_0372,INC,2019,0,Infrastructure,We will examine the opportunity to create a multi-modal transport system using the Brahmaputra.
+INC_2019_0373,INC,2019,0,Labour & Employment,We will ensure tea garden workers are paid wages and given benefits in accordance with applicable laws and bilateral agreements.
+INC_2019_0374,INC,2019,0,Social Justice & Minorities,"We will uphold the constitutional rights of religious minorities to non-discrimination, equal opportunity, religious freedom, and educational institutions."
+INC_2019_0375,INC,2019,0,Social Justice & Minorities,"We will uphold the constitutional rights of linguistic minorities to non-discrimination, equal opportunity, and educational institutions."
+INC_2019_0376,INC,2019,0,Governance & Anti-Corruption,We will make rules to ensure the decennial census accurately enumerates people claiming a language as their mother tongue.
+INC_2019_0377,INC,2019,0,Social Justice & Minorities,"We will support the promotion of all languages, including those not in the Eighth Schedule, and encourage their use in administration."
+INC_2019_0378,INC,2019,0,Social Justice & Minorities,We will support the use of Sign Language.
+INC_2019_0379,INC,2019,0,Education,We will support State Governments in promoting the mother tongue as the preferred medium of instruction.
+INC_2019_0380,INC,2019,0,Education,"We will support State Governments in teaching the State's official language(s), Hindi, and English."
+INC_2019_0381,INC,2019,0,Social Justice & Minorities,"We will pass a new law to prevent and punish hate crimes like mob-engineered stripping, burning, and lynching, and compensate victims."
+INC_2019_0382,INC,2019,0,Governance & Anti-Corruption,"We will re-introduce and pass the Waqf Properties (Eviction of Unauthorized Occupants) Bill, 2014 to restore properties to legal trustees."
+INC_2019_0383,INC,2019,0,Social Justice & Minorities,We will uphold the character of AMU and Jamia Millia Islamia as minority educational institutions.
+INC_2019_0384,INC,2019,0,Social Justice & Minorities,We will grant Constitutional status to the National Commission for Women and the National Commission for Minorities.
+INC_2019_0385,INC,2019,0,Social Justice & Minorities,"We will conduct a Special Census and enumerate Denotified and Semi-Nomadic Tribes, integrating the data into the decennial census."
+INC_2019_0386,INC,2019,0,SC/ST/OBC,We will examine the feasibility of providing compartmental reservation for Denotified and Semi-Nomadic Tribes as Backward Classes.
+INC_2019_0387,INC,2019,0,Governance & Anti-Corruption,"We will immediately repeal the Habitual Offenders Act, 1952."
+INC_2019_0388,INC,2019,0,Education,"We will work with State Governments to impart education and skills to Denotified and Semi-Nomadic Tribes, especially children."
+INC_2019_0389,INC,2019,0,Health,We will provide affordable and quality healthcare to senior citizens under the Right to Healthcare Act.
+INC_2019_0390,INC,2019,0,Health,We will open geriatric wards with sufficient beds in every district-level hospital.
+INC_2019_0391,INC,2019,0,Health,We will introduce well-designed pension and health insurance schemes for senior citizens.
+INC_2019_0392,INC,2019,0,Women & Child Development,We will create opportunities for senior citizens to contribute to the development of their communities.
+INC_2019_0393,INC,2019,0,Governance & Anti-Corruption,"We will ensure easy access to legal services and recourse for senior citizens, especially in cases of neglect, abuse, or financial fraud."
+INC_2019_0394,INC,2019,0,Social Justice & Minorities,"We will strictly enforce the Maintenance and Welfare of Senior Citizens Act, 2017."
+INC_2019_0395,INC,2019,0,Social Justice & Minorities,We will amend Articles 15 and 16 of the Constitution to prohibit discrimination on the ground of disability or impairment.
+INC_2019_0396,INC,2019,0,Social Justice & Minorities,"We will make all public services, spaces, government offices, and private premises inclusive and accessible to persons with disabilities."
+INC_2019_0397,INC,2019,0,Social Justice & Minorities,We will set up an information portal for easy access to information on all 21 disabilities and create awareness of rights.
+INC_2019_0398,INC,2019,0,Social Justice & Minorities,We will direct all Ministries and Departments to quickly review their policies to ensure they protect and promote the rights of persons with disabilities.
+INC_2019_0399,INC,2019,0,Social Justice & Minorities,We will propose a Constitutional Amendment to recognise Braille script and Sign Language as languages.
+INC_2019_0400,INC,2019,0,Education,We will establish a National Centre of Research and Excellence for Special Education to ensure quality education for children with special needs.
+INC_2019_0401,INC,2019,0,Social Justice & Minorities,We will commission an annual social audit of policies and programmes for persons with disabilities.
+INC_2019_0402,INC,2019,0,Health,"We will zero-rate all assistive and adaptive aids, appliances, and devices under the GST 2.0 regime."
+INC_2019_0403,INC,2019,0,Social Justice & Minorities,We will ensure the effective implementation of the Navtej Singh Johar judgment and protect the rights of the LGBTQIA+ community.
+INC_2019_0404,INC,2019,0,Social Justice & Minorities,"We will immediately withdraw the Transgender Bill, 2018 and introduce a new Bill consistent with the NALSA judgment, drafted in consultation with the LGBTQIA+ community."
+INC_2019_0405,INC,2019,0,Social Justice & Minorities,"We will make gender sensitivity training, especially for LGBTQIA+ rights, mandatory in all government departments, including the Armed Forces and Police."
+INC_2019_0406,INC,2019,0,Health,We will double total government expenditure on healthcare to 3 per cent of GDP by 2023-24.
+INC_2019_0407,INC,2019,0,Health,"We will enact the Right to Healthcare Act guaranteeing free diagnostics, out-patient care, medicines, and hospitalisation through public and enlisted private hospitals."
+INC_2019_0408,INC,2019,0,Health,We will vigorously promote and implement the free public hospitals-model to provide universal healthcare.
+INC_2019_0409,INC,2019,0,Health,We will substantially expand the free Dial-an-Ambulance service and put more ambulances on the road in all districts.
+INC_2019_0410,INC,2019,0,Health,We will establish Trauma and Emergency Centres on all National and State Highways.
+INC_2019_0411,INC,2019,0,Health,We will expand child and geriatric healthcare services in all public hospitals.
+INC_2019_0412,INC,2019,0,Health,"We will implement the Clinical Establishments Act, 2010 to bring accountability to private and public clinical establishments."
+INC_2019_0413,INC,2019,0,Health,We will promote and eventually mandate the digitisation of medical records on a robust ICT infrastructure.
+INC_2019_0414,INC,2019,0,Health,We will formulate a National Telemedicine Policy based on international best practices.
+INC_2019_0415,INC,2019,0,Health,"We will increase the number of doctors by establishing more medical colleges, increasing their capacity, and providing scholarships and loans to medical students."
+INC_2019_0416,INC,2019,0,Health,"We will license pre-qualified public and private institutions to teach and certify nurses, paramedics, and medical technicians."
+INC_2019_0417,INC,2019,0,Health,"We will promote AYUSH in healthcare services, especially in preventive healthcare."
+INC_2019_0418,INC,2019,0,Health,We will enable State Governments to revamp and equip the network of primary health centres (PHCs).
+INC_2019_0419,INC,2019,0,Health,We will ensure all vacancies in PHCs and public hospitals are filled within 1 year.
+INC_2019_0420,INC,2019,0,Health,"We will implement the National Mental Health Policy and the Mental Health Care Act, and ensure mental healthcare professionals are appointed in all public district hospitals."
+INC_2019_0421,INC,2019,0,Education,We will propose transferring School Education to the State List in the Seventh Schedule while retaining Higher Education in the Union List.
+INC_2019_0422,INC,2019,0,Education,We will make school education from Class I to Class XII in public schools compulsory and free by amending the RTE Act.
+INC_2019_0423,INC,2019,0,Education,We will end the practice of charging special fees for different purposes in public schools.
+INC_2019_0424,INC,2019,0,Education,We will attach the highest importance to learning outcomes to address poor education quality.
+INC_2019_0425,INC,2019,0,Education,"We will increase the capacity, number, and quality of government Teacher Training Institutes."
+INC_2019_0426,INC,2019,0,Education,"We will implement a scheme for the periodic and continuing education of teachers, making participation mandatory."
+INC_2019_0427,INC,2019,0,Education,We will double the allocation for Education to 6 per cent of GDP in the 5 years ending 2023-24.
+INC_2019_0428,INC,2019,0,Education,"We will increase expenditure to provide basic and adequate infrastructure like classrooms, libraries, labs, playgrounds, toilets, and drinking water in every school."
+INC_2019_0429,INC,2019,0,Youth & Sports,We will construct hostels based on demand.
+INC_2019_0430,INC,2019,0,Education,We will increase the number of Kendriya Vidyalayas and Navodya Vidyalayas based on demand.
+INC_2019_0431,INC,2019,0,Education,We will arrest the school dropout trend and ensure every child completes 12 years of school education.
+INC_2019_0432,INC,2019,0,Education,"We will employ technology-enabled teaching methods and personalised, adaptive learning tools in all schools."
+INC_2019_0433,INC,2019,0,Education,We will introduce vocational training as a compulsory component of school education in Classes IX to XII.
+INC_2019_0434,INC,2019,0,Education,We will support the establishment of special schools for children with special needs.
+INC_2019_0435,INC,2019,0,Education,"We will establish more public universities, especially in under-served areas."
+INC_2019_0436,INC,2019,0,Education,We will restore the autonomy of colleges and universities.
+INC_2019_0437,INC,2019,0,Education,"We will entrust the Regulation, Grading, and Funding of colleges and universities to separate organisations."
+INC_2019_0438,INC,2019,0,Education,"We will include Guest, Temporary, and Contract Teachers in the regular establishment of Universities so they receive their due benefits."
+INC_2019_0439,INC,2019,0,Education,We will restore the 200-point roster system for appointments to central universities and institutes of higher learning.
+INC_2019_0440,INC,2019,0,Education,We will ensure serving teachers are represented in the governing bodies of colleges and universities.
+INC_2019_0441,INC,2019,0,Education,"We will establish more Institutes of Higher Learning in medicine, engineering, commerce, management, and pure sciences."
+INC_2019_0442,INC,2019,0,Education,We will increase the Gross Enrollment Ratio in Higher Education to at least 40 in 5 years.
+INC_2019_0443,INC,2019,0,Education,We will dispense with the NEET examination and substitute it with a State-level examination for admission to medical colleges.
+INC_2019_0444,INC,2019,0,Education,"We will encourage colleges and universities to award Deprivation Points to students based on gender, rural residence, or being a first-generation learner to ensure diversity."
+INC_2019_0445,INC,2019,0,Education,We will increase the amount earmarked for grants to colleges and universities.
+INC_2019_0446,INC,2019,0,Education,We will increase the number of scholarships offered to students and encourage institutions to build endowment funds.
+INC_2019_0447,INC,2019,0,Education,"We will revive, redesign, and expand the Education Loan programme with no interest charged during the period of study."
+INC_2019_0448,INC,2019,0,Education,We will waive outstanding interest dues on old education loans as on 31 March 2019.
+INC_2019_0449,INC,2019,0,Education,We will pass a Students Rights Bill to codify the rights and obligations of students in colleges and universities.
+INC_2019_0450,INC,2019,0,Agriculture,We will work tirelessly to assure food security to all.
+INC_2019_0451,INC,2019,0,Rural Development,We will ensure food grains are delivered to vulnerable tribal communities through mobile fair price shops.
+INC_2019_0452,INC,2019,0,Social Justice & Minorities,"We will review and update the list of NFSA beneficiaries within 6 months to include the homeless, destitute, and migrant workers."
+INC_2019_0453,INC,2019,0,Rural Development,We will take special measures to enroll vulnerable tribal groups and communities in food security schemes.
+INC_2019_0454,INC,2019,0,Social Justice & Minorities,We will ensure the linking of Aadhaar for food security is voluntary and no one is excluded for non-linking.
+INC_2019_0455,INC,2019,0,Health,We will improve the quality and delivery of the Mid-Day Meal Scheme by including milk and eggs and increasing the cost per meal.
+INC_2019_0456,INC,2019,0,Health,We will conduct social audits of the Mid-Day Meal Scheme at the block and district levels to measure nutrition outcomes.
+INC_2019_0457,INC,2019,0,Rural Development,We will ensure public food distribution programmes rely as far as possible on fresh produce to encourage local production.
+INC_2019_0458,INC,2019,0,Women & Child Development,"We will expand the ICDS programme, increase funding, and increase the number of Anganwadis."
+INC_2019_0459,INC,2019,0,Women & Child Development,We will ensure Anganwadi workers are paid at least the State minimum wage.
+INC_2019_0460,INC,2019,0,Women & Child Development,We will include a crèche in Anganwadis based on need and demand to provide day care and empower working mothers.
+INC_2019_0461,INC,2019,0,Health,We will closely monitor the coverage and quality of nutritious food in the ICDS programme and conduct social audits of nutrition outcomes.
+INC_2019_0462,INC,2019,0,Health,We will ensure that every child is vaccinated.
+INC_2019_0463,INC,2019,0,Education,We will work with State Governments to ensure children receive good quality education reflected in learning outcomes.
+INC_2019_0464,INC,2019,0,Women & Child Development,"We will take a serious view of crimes against children, increase the number of POCSO courts, and put trials on fast track."
+INC_2019_0465,INC,2019,0,Women & Child Development,"We will revamp and improve Child Protection Services with a focus on vulnerable groups, prevention of crimes, and after-care."
+INC_2019_0466,INC,2019,0,Health,"We will ensure universal access to potable drinking water by reviewing, strengthening, and substantially increasing budget allocations for the National Drinking Water Mission."
+INC_2019_0467,INC,2019,0,Energy & Environment,We will create a Ministry of Water to bring all water-related activities and departments under one authority.
+INC_2019_0468,INC,2019,0,Energy & Environment,"We will focus on water storage in dams and water bodies, replenishing ground water, and creating a large participatory programme of water management."
+INC_2019_0469,INC,2019,0,Energy & Environment,"We will double the budget allocation for cleaning rivers, including the Ganga."
+INC_2019_0470,INC,2019,0,Energy & Environment,"We will review the methodology for cleaning rivers, employ the latest science and technology, and convert the Ganga Action Plan into a People’s Programme."
+INC_2019_0471,INC,2019,0,Women & Child Development,"We will review and re-introduce the Nirmal Bharat Abhiyan to ensure universal access to clean, functioning toilets with water."
+INC_2019_0472,INC,2019,0,Health,We will support the construction of individual and community toilets under the Nirmal Bharat Abhiyan.
+INC_2019_0473,INC,2019,0,Urban Development,We will implement a comprehensive plan for the treatment and safe disposal of sewage.
+INC_2019_0474,INC,2019,0,Women & Child Development,"We will focus on hygiene, including menstrual hygiene, by promoting hand washing, disposable tissue paper, and low-cost sanitary napkins."
+INC_2019_0475,INC,2019,0,Women & Child Development,"We will support Panchayats, Municipalities, and NGOs to install sanitary napkin vending machines in schools, colleges, and public places."
+INC_2019_0476,INC,2019,0,Social Justice & Minorities,"We will end manual scavenging in 3 years by rehabilitating, re-skilling, and providing jobs to every manual scavenger."
+INC_2019_0477,INC,2019,0,Social Justice & Minorities,"We will strictly implement the Prohibition of Manual Scavenging Act, 2013, punish offenders, and allocate funds to procure machines for cleaning sewers and septic tanks."
+INC_2019_0478,INC,2019,0,Energy & Environment,We will place India at the forefront of the battle against global warming and defend India’s interests in international environmental negotiations.
+INC_2019_0479,INC,2019,0,Energy & Environment,"We will constitute an independent, empowered, and transparent Environment Protection Authority (EPA) by law to establish and enforce environmental standards."
+INC_2019_0480,INC,2019,0,Energy & Environment,We will significantly strengthen the National Clean Air Programme to urgently tackle pollution by targeting and mitigating all major sources of emission.
+INC_2019_0481,INC,2019,0,Energy & Environment,"We will formulate a comprehensive land and water use policy and plan for the conservation of ecosystems, bio-diversity, and wildlife."
+INC_2019_0482,INC,2019,0,Energy & Environment,We will work with State Governments to preserve the bio-diversity of the Himalayan range and the Western Ghats while protecting local livelihoods.
+INC_2019_0483,INC,2019,0,Energy & Environment,We will stop the discharge of effluents into rivers and clean all rivers of India.
+INC_2019_0484,INC,2019,0,Energy & Environment,"We will protect coastal zones by reversing recent steps that diluted coastal zone regulations, without affecting fishing communities' livelihoods."
+INC_2019_0485,INC,2019,0,Energy & Environment,We will impose a complete ban on the import of all types of waste.
+INC_2019_0486,INC,2019,0,Infrastructure,We will allow the import of sand for construction and stop the illegal mining of sand in riverbanks.
+INC_2019_0487,INC,2019,0,Energy & Environment,We will implement a solid waste management plan in every habitation using modern technology and assure appropriate equipment and safe working conditions for waste management workers.
+INC_2019_0488,INC,2019,0,Energy & Environment,We will confer legal and financial powers upon Panchayats and Municipalities to partner with State Governments in environment protection and management.
+INC_2019_0489,INC,2019,0,Energy & Environment,"We will amend forest laws, redefine the role of Forest Departments, and make local communities the custodians and shareholders of forest resources."
+INC_2019_0490,INC,2019,0,Energy & Environment,"We will work with State Governments to increase forest cover to 25 per cent by 2025 by re-defining 'forest', assessing exact cover, involving local communities in afforestation, and penalising the diversion of forest funds."
+INC_2019_0491,INC,2019,0,Energy & Environment,"We will preserve wildlife habitats, minimise human-wildlife conflict, and award compensation for the loss of human lives."
+INC_2019_0492,INC,2019,0,Social Justice & Minorities,We will promote animal welfare and severely penalise cruelty to animals.
+INC_2019_0493,INC,2019,0,Energy & Environment,We will provide clean cooking fuels at affordable prices to all households and monitor LPG cylinder prices to mitigate burdens through subsidies.
+INC_2019_0494,INC,2019,0,Energy & Environment,We will present national accounts accounting for the costs of environmental degradation and adopt Green Budgeting principles in the Annual Budget.
+INC_2019_0495,INC,2019,0,Energy & Environment,We will endeavour to make India a green manufacturing hub by reducing tariffs and lifting trade barriers for clean technology.
+INC_2019_0496,INC,2019,0,Governance & Anti-Corruption,"We will re-visit the National Disaster Management Act, 2005 and incorporate changes based on experience."
+INC_2019_0497,INC,2019,0,Energy & Environment,We will review the NDMA and emphasise the function of preventing disasters.
+INC_2019_0498,INC,2019,0,Rural Development,"We will expand disaster management to cover the impact on wild animals, domestic animals, pets, livestock, agricultural crops, and plantations."
+INC_2019_0499,INC,2019,0,Rural Development,We will use the MGNREGA programme to execute public works that mitigate the impact of floods and droughts.
+INC_2019_0500,INC,2019,0,Energy & Environment,"We will develop a modern Climate Information System incorporating advanced meteorology tools to monitor, forecast, and disseminate information to stakeholders."
+INC_2019_0501,INC,2019,0,Energy & Environment,"We will increase the allocation to the National Adaptation Fund and re-visit guidelines to ensure only schemes benefiting farmers, fisherfolk, forest dwellers, and artisans are implemented."
+INC_2019_0502,INC,2019,0,Labour & Employment,We will provide access to high-quality internet at affordable rates to all persons.
+INC_2019_0503,INC,2019,0,Other,We will uphold the principle of net neutrality to ensure the internet stays a level playing field.
+INC_2019_0504,INC,2019,0,Governance & Anti-Corruption,We will regulate the power to shut down the internet and prevent arbitrary shutdowns.
+INC_2019_0505,INC,2019,0,Governance & Anti-Corruption,We will promote the development and use of open standards and free and open source software for government services.
+INC_2019_0506,INC,2019,0,Governance & Anti-Corruption,We will pass a law to protect the personal data of all persons and uphold the right to privacy.
+INC_2019_0507,INC,2019,0,Governance & Anti-Corruption,We will pass a law to provide safeguards against unlawful or excessive surveillance and provide for independent and Parliamentary oversight.
+INC_2019_0508,INC,2019,0,Governance & Anti-Corruption,We will make all government departments publish all non-private data sets as open data.
+INC_2019_0509,INC,2019,0,Governance & Anti-Corruption,We will pass regulations to stop the spread of fake news and hate speech and punish those who misuse digital and social media.
+INC_2019_0510,INC,2019,0,Youth & Sports,We will respect the autonomy of the Indian Olympic Association and the Apex Body of each sport.
+INC_2019_0511,INC,2019,0,Youth & Sports,"We will ensure the Constitution of each sports body follows norms for elections and includes adequate representation for active players, former players, and women."
+INC_2019_0512,INC,2019,0,Youth & Sports,We will make physical education and sports an integral and mandatory part of the school curriculum and encourage higher education institutions to accord sports an important place.
+INC_2019_0513,INC,2019,0,Youth & Sports,"We will allocate sufficient funds to create modern sports infrastructure like multi-sport stadiums, athletic tracks, and swimming pools, and entrust their maintenance to the respective Apex Bodies."
+INC_2019_0514,INC,2019,0,Youth & Sports,We will allocate sufficient funds to train and produce coaches and technical support personnel in each sport.
+INC_2019_0515,INC,2019,0,Youth & Sports,We will establish Centres of Sporting Excellence in different parts of the country to offer world-class training to sportspersons.
+INC_2019_0516,INC,2019,0,Youth & Sports,We will ensure at least 1 community sports centre in each block headquarters and at least 1 multi-sport coaching centre in every district headquarters.
+INC_2019_0517,INC,2019,0,Youth & Sports,We will ensure at least 1 Sports Counselling Centre in every district to counsel aspiring young sportspersons.
+INC_2019_0518,INC,2019,0,Youth & Sports,"We will allocate sufficient funds to promote sports among girls, women, persons with disabilities, and disadvantaged groups like Scheduled Tribes."

@@ -1,0 +1,527 @@
+promise_id,party,year,page_number,manifesto_section,promise_text
+BJP_2014_0001,BJP,2014,0,Governance & Anti-Corruption,We will place Centre-State relations on an even keel through consultation.
+BJP_2014_0002,BJP,2014,0,Governance & Anti-Corruption,We will evolve a model of national development driven by the states.
+BJP_2014_0003,BJP,2014,0,Governance & Anti-Corruption,We will ensure fiscal autonomy of States while urging financial discipline.
+BJP_2014_0004,BJP,2014,0,Governance & Anti-Corruption,We will create 'Regional Councils of States' for common problems.
+BJP_2014_0005,BJP,2014,0,Governance & Anti-Corruption,"We will encourage cooperation among states on security, inter-state disputes, and tourism."
+BJP_2014_0006,BJP,2014,0,Rural Development,We will evolve state-specific developmental priorities for hill and desert states.
+BJP_2014_0007,BJP,2014,0,Economy & Finance,We will focus on developing and strengthening the economy of UTs.
+BJP_2014_0008,BJP,2014,0,Urban Development,We will promote tourism in UTs.
+BJP_2014_0009,BJP,2014,0,SC/ST/OBC,We will promote tribal welfare in UTs.
+BJP_2014_0010,BJP,2014,0,Infrastructure,We will promote infrastructure and coastal area development in UTs.
+BJP_2014_0011,BJP,2014,0,Rural Development,We will protect and ensure integrated development of island territories.
+BJP_2014_0012,BJP,2014,0,Governance & Anti-Corruption,We will revive 'National Development Council' and 'Inter-State Council'.
+BJP_2014_0013,BJP,2014,0,Foreign Policy,We will involve state Governments in promotion of foreign trade and commerce.
+BJP_2014_0014,BJP,2014,0,Economy & Finance,We will help states mobilize resources through investments.
+BJP_2014_0015,BJP,2014,0,Rural Development,We will give highest priority to bringing eastern parts of India on par with western parts.
+BJP_2014_0016,BJP,2014,0,Rural Development,We will empower Ministry of North-Eastern Region with a broader charter and non-lapsable funds.
+BJP_2014_0017,BJP,2014,0,Infrastructure,We will enhance connectivity within the Northeast and to the rest of the country.
+BJP_2014_0018,BJP,2014,0,Defence & Security,We will undertake massive infrastructure development along the Line of Actual Control in Arunachal Pradesh and Sikkim.
+BJP_2014_0019,BJP,2014,0,Rural Development,We will address flood control in Assam and river water management.
+BJP_2014_0020,BJP,2014,0,Labour & Employment,We will nurture job generating opportunities like tourism and IT in Northeast.
+BJP_2014_0021,BJP,2014,0,Defence & Security,We will address infiltration and illegal immigrants in the Northeast.
+BJP_2014_0022,BJP,2014,0,Defence & Security,We will complete pending fencing work along India-Bangladesh and India-Myanmar border.
+BJP_2014_0023,BJP,2014,0,Governance & Anti-Corruption,"We will take measures for safety of North-Eastern students studying across the country, including setting up Hostels."
+BJP_2014_0024,BJP,2014,0,Defence & Security,We will deal with Insurgent groups with a firm hand.
+BJP_2014_0025,BJP,2014,0,Rural Development,"We will pursue equal and rapid development in Jammu, Kashmir and Ladakh."
+BJP_2014_0026,BJP,2014,0,Social Justice & Minorities,"We will ensure return of Kashmiri Pandits with full dignity, security and assured livelihood."
+BJP_2014_0027,BJP,2014,0,Foreign Policy,We will address long pending problems and demands of refugees from POK.
+BJP_2014_0028,BJP,2014,0,Foreign Policy,We will abrogate Article 370 after discussing with all stakeholders.
+BJP_2014_0029,BJP,2014,0,Governance & Anti-Corruption,We will provide good governance in the Kashmir valley.
+BJP_2014_0030,BJP,2014,0,Infrastructure,We will provide better infrastructure in the Kashmir valley.
+BJP_2014_0031,BJP,2014,0,Education,We will provide educational opportunities in the Kashmir valley.
+BJP_2014_0032,BJP,2014,0,Health,We will provide healthcare in the Kashmir valley.
+BJP_2014_0033,BJP,2014,0,Labour & Employment,We will provide more job opportunities in the Kashmir valley.
+BJP_2014_0034,BJP,2014,0,Governance & Anti-Corruption,We will do full justice to Seemandhra and address issues of development and governance of Seemandhra and Telangana.
+BJP_2014_0035,BJP,2014,0,Governance & Anti-Corruption,We will make people active drivers of development through Jan bhagidari.
+BJP_2014_0036,BJP,2014,0,Governance & Anti-Corruption,We will evolve PPP model into People-Public-Private Partnership (PPPP) model.
+BJP_2014_0037,BJP,2014,0,Governance & Anti-Corruption,We will empower Panchayati Raj Institutions with extensive devolution of the 3 Fs.
+BJP_2014_0038,BJP,2014,0,Rural Development,We will reward good performing Panchayats with additional developmental grants.
+BJP_2014_0039,BJP,2014,0,Governance & Anti-Corruption,We will strengthen the institution of the Gram Sabha.
+BJP_2014_0040,BJP,2014,0,Governance & Anti-Corruption,We will actively involve people in policy formulation and evaluation.
+BJP_2014_0041,BJP,2014,0,Governance & Anti-Corruption,"We will encourage Openness in Government, involving all stakeholders in decision-making."
+BJP_2014_0042,BJP,2014,0,Governance & Anti-Corruption,We will implement administrative reforms through an appropriate body under the PMO.
+BJP_2014_0043,BJP,2014,0,Governance & Anti-Corruption,We will set-up an effective Lokpal institution.
+BJP_2014_0044,BJP,2014,0,Governance & Anti-Corruption,We will digitize Government records on top priority.
+BJP_2014_0045,BJP,2014,0,Governance & Anti-Corruption,"We will mandate performance review, social and environment audit for all Government schemes."
+BJP_2014_0046,BJP,2014,0,Governance & Anti-Corruption,"We will open up Government to draw expertise from industry, academia and society."
+BJP_2014_0047,BJP,2014,0,Governance & Anti-Corruption,"We will redefine government by elimination of obsolete laws, regulations, structures, and practices."
+BJP_2014_0048,BJP,2014,0,Governance & Anti-Corruption,We will generate 'Kartavya Bhavna' among public servants.
+BJP_2014_0049,BJP,2014,0,Infrastructure,We will focus on increasing penetration and usage of broadband across the country.
+BJP_2014_0050,BJP,2014,0,Rural Development,We will deploy broadband in every village.
+BJP_2014_0051,BJP,2014,0,Governance & Anti-Corruption,We will leverage technology for e-Governance and engage proactively with people through social media.
+BJP_2014_0052,BJP,2014,0,Labour & Employment,We will generate IT based jobs in rural and semi-urban areas.
+BJP_2014_0053,BJP,2014,0,Education,We will make technology enabled products affordable for students.
+BJP_2014_0054,BJP,2014,0,Education,We will use technology to reduce the burden of books on children.
+BJP_2014_0055,BJP,2014,0,Education,We will make all institutions and schools e-enabled in a phased manner.
+BJP_2014_0056,BJP,2014,0,Rural Development,"We will pursue a mission mode project under 'National Rural Internet and Technology Mission' for telemedicine, mobile healthcare, IT for agriculture, SHGs, retail trade, SMEs, and rural entrepreneurs."
+BJP_2014_0057,BJP,2014,0,Governance & Anti-Corruption,We will initiate a National e-Governance Plan to cover every Government office from centre to panchayats.
+BJP_2014_0058,BJP,2014,0,Rural Development,"We will implement 'E-Gram, Vishwa Gram' scheme nationwide."
+BJP_2014_0059,BJP,2014,0,Education,We will promote e-Bhasha- National Mission for promotion of IT in Indian Languages.
+BJP_2014_0060,BJP,2014,0,SC/ST/OBC,"We will bring SC/ST, OBCs and weaker sections within the ambit of IT enabled development."
+BJP_2014_0061,BJP,2014,0,Other,"We will deploy IT to protect cultural and artistic heritage, including digitization of archives and museology."
+BJP_2014_0062,BJP,2014,0,Other,We will promote 'open source' and 'open standard' software.
+BJP_2014_0063,BJP,2014,0,Governance & Anti-Corruption,We will mandate digitization of all government work.
+BJP_2014_0064,BJP,2014,0,Infrastructure,We will set up High-speed digital highways to unite the nation.
+BJP_2014_0065,BJP,2014,0,Energy & Environment,We will use technology to reduce Transmission and distribution losses.
+BJP_2014_0066,BJP,2014,0,Economy & Finance,We will use mobile and e-Banking to ensure financial inclusion.
+BJP_2014_0067,BJP,2014,0,Governance & Anti-Corruption,We will make administration truly accountable through rigorous evaluation.
+BJP_2014_0068,BJP,2014,0,Governance & Anti-Corruption,We will reward good performance in administration.
+BJP_2014_0069,BJP,2014,0,Governance & Anti-Corruption,We will rationalize and converge among Ministries and departments.
+BJP_2014_0070,BJP,2014,0,Youth & Sports,We will tap services of youth through Fellowship and Internship programmes in governance.
+BJP_2014_0071,BJP,2014,0,Governance & Anti-Corruption,"We will accord high priority to judicial reforms to address appointment of judges, filling vacancies, and opening new courts."
+BJP_2014_0072,BJP,2014,0,Governance & Anti-Corruption,We will initiate a mission mode project for filling vacancies and doubling the number of courts and judges in subordinate judiciary.
+BJP_2014_0073,BJP,2014,0,Governance & Anti-Corruption,We will set up a National Judicial Commission for appointment of judges in higher judiciary.
+BJP_2014_0074,BJP,2014,0,Governance & Anti-Corruption,We will create a fund for modernization of courts.
+BJP_2014_0075,BJP,2014,0,Governance & Anti-Corruption,We will set up a separate class of courts for cases involving specified commercial laws.
+BJP_2014_0076,BJP,2014,0,Governance & Anti-Corruption,We will reform the criminal justice system.
+BJP_2014_0077,BJP,2014,0,Governance & Anti-Corruption,We will initiate computerization and networking of courts.
+BJP_2014_0078,BJP,2014,0,Governance & Anti-Corruption,We will extend fast track courts to all layers of the judiciary.
+BJP_2014_0079,BJP,2014,0,Governance & Anti-Corruption,We will expand alternative dispute redressal mechanisms.
+BJP_2014_0080,BJP,2014,0,Governance & Anti-Corruption,We will implement National Litigation Policy.
+BJP_2014_0081,BJP,2014,0,Governance & Anti-Corruption,We will review and reduce significantly the number of cases where Government is a litigant.
+BJP_2014_0082,BJP,2014,0,Governance & Anti-Corruption,We will periodically review and refine or scrap outdated laws.
+BJP_2014_0083,BJP,2014,0,Governance & Anti-Corruption,We will create courts specially equipped to deal with IPR cases.
+BJP_2014_0084,BJP,2014,0,Governance & Anti-Corruption,We will give special emphasis to Alternate Dispute Resolution mechanisms.
+BJP_2014_0085,BJP,2014,0,Education,We will set up a comprehensive National e-Library.
+BJP_2014_0086,BJP,2014,0,Women & Child Development,We will enhance the number of women in the Bar and Bench.
+BJP_2014_0087,BJP,2014,0,Education,We will evolve a national network of specialized universities having expertise in complementary domains.
+BJP_2014_0088,BJP,2014,0,Economy & Finance,We will develop India into a Global Hub for Arbitration and Legal Process Outsourcing.
+BJP_2014_0089,BJP,2014,0,Governance & Anti-Corruption,We will undertake comprehensive review of the legal system to simplify complex legislations.
+BJP_2014_0090,BJP,2014,0,Governance & Anti-Corruption,We will establish an institutional mechanism to periodically review and give suggestions for refining laws.
+BJP_2014_0091,BJP,2014,0,Governance & Anti-Corruption,We will simplify legal procedure and language.
+BJP_2014_0092,BJP,2014,0,Governance & Anti-Corruption,We will make legal information open and freely accessible.
+BJP_2014_0093,BJP,2014,0,Education,We will run legal awareness programmes and introduce them in school curriculum.
+BJP_2014_0094,BJP,2014,0,Governance & Anti-Corruption,We will roll out a comprehensive strategy for bringing Indian Police at par with international standards.
+BJP_2014_0095,BJP,2014,0,Governance & Anti-Corruption,We will facilitate training and capacity building of Police forces.
+BJP_2014_0096,BJP,2014,0,Governance & Anti-Corruption,"We will modernize the police force, equipping them with latest technology."
+BJP_2014_0097,BJP,2014,0,Governance & Anti-Corruption,We will initiate networking of police stations across the country.
+BJP_2014_0098,BJP,2014,0,Governance & Anti-Corruption,"We will strengthen Investigations to make them Swift, Transparent, Fair, Clear and Decisive."
+BJP_2014_0099,BJP,2014,0,Governance & Anti-Corruption,We will develop specialized expertise in investigation through continuous training.
+BJP_2014_0100,BJP,2014,0,Defence & Security,We will overhaul intelligence set up with special focus on coordination and integration.
+BJP_2014_0101,BJP,2014,0,Infrastructure,We will modernize Prison system with technology and infrastructure.
+BJP_2014_0102,BJP,2014,0,Governance & Anti-Corruption,We will work towards evolving common national standards and protocols for police.
+BJP_2014_0103,BJP,2014,0,Defence & Security,"We will train and technologically enable police to track, pursue, and prevent Cyber Crime."
+BJP_2014_0104,BJP,2014,0,Foreign Policy,We will bring Coastal States together to discuss Marine Policing.
+BJP_2014_0105,BJP,2014,0,Governance & Anti-Corruption,We will reinterpret community policing in modern times to build bonds of trust.
+BJP_2014_0106,BJP,2014,0,Labour & Employment,We will give special emphasis for improving working conditions and welfare of police personnel.
+BJP_2014_0107,BJP,2014,0,Governance & Anti-Corruption,We will initiate electoral reforms to eliminate criminals.
+BJP_2014_0108,BJP,2014,0,Governance & Anti-Corruption,We will evolve a method of holding Assembly and Lok Sabha elections simultaneously.
+BJP_2014_0109,BJP,2014,0,Governance & Anti-Corruption,We will look at revising election expenditure limits realistically.
+BJP_2014_0110,BJP,2014,0,Governance & Anti-Corruption,"We will strengthen Delivery of poverty alleviation programs through convergence, transparency and efficiency."
+BJP_2014_0111,BJP,2014,0,Rural Development,We will identify 100 most backward districts and bring them at par with other districts through prioritized and integrated development.
+BJP_2014_0112,BJP,2014,0,Rural Development,We will strengthen the natural resource base of the people to tide over natural calamities.
+BJP_2014_0113,BJP,2014,0,Rural Development,We will aim to gainfully employ rural poor in agriculture and allied activities.
+BJP_2014_0114,BJP,2014,0,Labour & Employment,We will enable the urban poor to develop skills to take advantage of emerging opportunities.
+BJP_2014_0115,BJP,2014,0,Governance & Anti-Corruption,"We will facilitate partnership across all levels of government, civil society, academic and financial institutions for poverty alleviation."
+BJP_2014_0116,BJP,2014,0,Governance & Anti-Corruption,We will review all laws and schemes to ensure corruption-free efficient implementation of food security.
+BJP_2014_0117,BJP,2014,0,Governance & Anti-Corruption,We will review successful PDS models and incorporate best practices to revise existing PDS.
+BJP_2014_0118,BJP,2014,0,Health,We will address the issue of under-nutrition and malnutrition.
+BJP_2014_0119,BJP,2014,0,Agriculture,"We will encourage the production of cereals, pulses and oils."
+BJP_2014_0120,BJP,2014,0,Agriculture,We will radically transform the Food Corporation of India (FCI).
+BJP_2014_0121,BJP,2014,0,Infrastructure,We will ensure contingency stocks for any exigencies arising due to natural calamities or external factors.
+BJP_2014_0122,BJP,2014,0,Social Justice & Minorities,We will seek participation of voluntary organizations in running community kitchens.
+BJP_2014_0123,BJP,2014,0,SC/ST/OBC,"We will create an ecosystem for education and entrepreneurship for SC, ST, OBCs and weaker sections."
+BJP_2014_0124,BJP,2014,0,Social Justice & Minorities,We will eradicate untouchability at all levels.
+BJP_2014_0125,BJP,2014,0,Social Justice & Minorities,We will eliminate manual scavenging.
+BJP_2014_0126,BJP,2014,0,Social Justice & Minorities,We will look at more effective ways to pull deprived sections out of the poverty line.
+BJP_2014_0127,BJP,2014,0,Governance & Anti-Corruption,"We will ensure funds allocated for schemes for SC, ST, OBCs and weaker sections are utilized properly."
+BJP_2014_0128,BJP,2014,0,Social Justice & Minorities,"We will make a mission mode project for housing, education, health and skills development for SC, ST, OBCs and weaker sections."
+BJP_2014_0129,BJP,2014,0,Women & Child Development,"We will focus on children, especially the girl child, regarding health, education and skills development in deprived sections."
+BJP_2014_0130,BJP,2014,0,Rural Development,We will initiate a 'Van Bandhu Kalyan Yojna' at the national level overseen by a 'Tribal Development Authority'.
+BJP_2014_0131,BJP,2014,0,Education,We will set up the entire education network for tribals.
+BJP_2014_0132,BJP,2014,0,Rural Development,"We will upgrade housing, water and health facilities for tribals."
+BJP_2014_0133,BJP,2014,0,Rural Development,We will electrify tribal hamlets and provide all-weather roads for tribals.
+BJP_2014_0134,BJP,2014,0,Labour & Employment,We will initiate new economic activities for tribals.
+BJP_2014_0135,BJP,2014,0,Rural Development,We will promote products associated with tribal culture by setting tribal haats in tourist towns.
+BJP_2014_0136,BJP,2014,0,Rural Development,We will ensure tribal land is not alienated.
+BJP_2014_0137,BJP,2014,0,Rural Development,We will facilitate access to minor forest produce and create a network of rural haats for tribals.
+BJP_2014_0138,BJP,2014,0,Rural Development,We will establish the National Centre for Tribal Research and Culture.
+BJP_2014_0139,BJP,2014,0,Rural Development,We will enhance funds for tribal welfare and development.
+BJP_2014_0140,BJP,2014,0,Social Justice & Minorities,"We will ensure young, and girl child in particular, get education and jobs without discrimination in minority communities."
+BJP_2014_0141,BJP,2014,0,Social Justice & Minorities,We will strengthen and modernize minority educational systems and institutions.
+BJP_2014_0142,BJP,2014,0,Social Justice & Minorities,We will initiate National Madrasa modernization programme.
+BJP_2014_0143,BJP,2014,0,Social Justice & Minorities,We will empower minorities with vibrancy in Livelihood and Entrepreneurial opportunities.
+BJP_2014_0144,BJP,2014,0,Labour & Employment,We will augment traditional artisanship and entrepreneurial skill of minorities.
+BJP_2014_0145,BJP,2014,0,Social Justice & Minorities,We will empower Waqf Boards in consultation with religious leaders and remove encroachments from Waqf properties.
+BJP_2014_0146,BJP,2014,0,Social Justice & Minorities,"We will curate rich heritage and culture of minorities, including maintenance of heritage sites, digitization of archives, preservation and promotion of Urdu."
+BJP_2014_0147,BJP,2014,0,Social Justice & Minorities,We will ensure a peaceful and secure environment for minorities.
+BJP_2014_0148,BJP,2014,0,Social Justice & Minorities,We will facilitate setting up of a permanent Inter-faith Consultative mechanism.
+BJP_2014_0149,BJP,2014,0,Governance & Anti-Corruption,We will strengthen the Public Sector for providing efficient services to citizens.
+BJP_2014_0150,BJP,2014,0,Education,We will provide educational scholarships and facilities to neo-middle class.
+BJP_2014_0151,BJP,2014,0,Health,We will provide medical insurance and quality healthcare services to neo-middle class.
+BJP_2014_0152,BJP,2014,0,Urban Development,We will provide middle-income housing to neo-middle class.
+BJP_2014_0153,BJP,2014,0,Urban Development,We will provide efficient public transport systems to neo-middle class.
+BJP_2014_0154,BJP,2014,0,Rural Development,We will make and implement a full-fledged programme for 'Rural Rejuvenation'.
+BJP_2014_0155,BJP,2014,0,Rural Development,We will bring urban amenities to rural areas while retaining the soul of the village through the idea of Rurban.
+BJP_2014_0156,BJP,2014,0,Rural Development,"We will improve village level infrastructure in terms of roads, potable water, education, health, supply chain, electricity, broadband, job creation, security and linkage to markets."
+BJP_2014_0157,BJP,2014,0,Urban Development,We will initiate building 100 new cities enabled with latest technology and infrastructure.
+BJP_2014_0158,BJP,2014,0,Urban Development,We will base urban development approach on integrated habitat development building on concepts like Twin cities and Satellite towns.
+BJP_2014_0159,BJP,2014,0,Urban Development,"We will upgrade existing urban centres, transitioning focus to public utility services like Waste and Water Management."
+BJP_2014_0160,BJP,2014,0,Energy & Environment,We will give priority to Cleanliness and Sanitation by setting up efficient Waste and Water management systems.
+BJP_2014_0161,BJP,2014,0,Urban Development,We will identify model towns for rolling out integrated waste management infrastructure.
+BJP_2014_0162,BJP,2014,0,Urban Development,We will make Wi-Fi facilities available in public places and commercial centres in urban areas.
+BJP_2014_0163,BJP,2014,0,Urban Development,We will make urban poverty alleviation scheme a key thrust area.
+BJP_2014_0164,BJP,2014,0,Urban Development,"We will use technology for scientific, strategic and long term town planning including GIS based mapping."
+BJP_2014_0165,BJP,2014,0,Urban Development,"We will build quality integrated Public Transport systems, discouraging usage of private vehicles."
+BJP_2014_0166,BJP,2014,0,Social Justice & Minorities,We will make social security schemes more meaningful.
+BJP_2014_0167,BJP,2014,0,Social Justice & Minorities,"We will lay special emphasis on vulnerable children including those belonging to SCs, STs, OBCs, migrants, slum dwellers, and those with disabilities."
+BJP_2014_0168,BJP,2014,0,Education,We will ensure effective implementation of the Right to Education and Right to Food Security Act.
+BJP_2014_0169,BJP,2014,0,Women & Child Development,"We will review, amend and strengthen the Child and Adolescent Labour (Prohibition and Regulation) Act, 2012 and Integrated Child Protection Scheme (ICPS)."
+BJP_2014_0170,BJP,2014,0,Health,We will make focused efforts to address issue of anaemia in children.
+BJP_2014_0171,BJP,2014,0,Education,We will reduce the burden of books on children without compromising on quality of education.
+BJP_2014_0172,BJP,2014,0,Social Justice & Minorities,We will endeavour to inculcate values amongst children.
+BJP_2014_0173,BJP,2014,0,Women & Child Development,"We will provide financial support to senior citizens, exploring ideas like additional tax benefits and higher interest rates."
+BJP_2014_0174,BJP,2014,0,Health,We will invest in setting up and improving old-age homes.
+BJP_2014_0175,BJP,2014,0,Social Justice & Minorities,We will harness the experience of senior citizens by devising schemes to engage them as volunteers or part time workers in development programmes.
+BJP_2014_0176,BJP,2014,0,Social Justice & Minorities,We will enact the 'Rights of the Persons with Disabilities bill' (RPWD).
+BJP_2014_0177,BJP,2014,0,Education,We will use technology to deliver low cost quality education to specially-abled students 'in-home' through E-learning.
+BJP_2014_0178,BJP,2014,0,Health,We will identify each special needs person and establish a web based disability registration system to issue universal ID.
+BJP_2014_0179,BJP,2014,0,Social Justice & Minorities,"We will ensure disabled friendly access to public facilities, public buildings and transport."
+BJP_2014_0180,BJP,2014,0,Labour & Employment,We will ensure maximum economic independence of the disabled by creating more income generation models.
+BJP_2014_0181,BJP,2014,0,Health,We will support and aid voluntary organizations working for the care of the disabled.
+BJP_2014_0182,BJP,2014,0,Women & Child Development,We will provide a higher tax relief for the family member taking care of the disabled.
+BJP_2014_0183,BJP,2014,0,Youth & Sports,We will review and revise policies to seek participation of youth in decision-making and nation building.
+BJP_2014_0184,BJP,2014,0,Youth & Sports,We will initiate the 'Young Leaders programme' in all sectors.
+BJP_2014_0185,BJP,2014,0,Youth & Sports,We will set up the National Youth Advisory Council.
+BJP_2014_0186,BJP,2014,0,Labour & Employment,We will initiate nation-wide 'district level incubation and accelerator programme' for encouraging innovation and entrepreneurship.
+BJP_2014_0187,BJP,2014,0,Education,We will simplify procedure to avail Student's loans and make loans affordable.
+BJP_2014_0188,BJP,2014,0,Youth & Sports,We will set up neighbourhood Children's/Youth Parliament across India.
+BJP_2014_0189,BJP,2014,0,Youth & Sports,"We will launch a programme, 'Youth for Development'."
+BJP_2014_0190,BJP,2014,0,Youth & Sports,We will promote all sports- traditional and modern.
+BJP_2014_0191,BJP,2014,0,Youth & Sports,We will allocate more funds to sports and encourage State Governments to fully discharge their responsibility.
+BJP_2014_0192,BJP,2014,0,Youth & Sports,We will inculcate a culture of sports at the school level by arranging sports facilities and making sports a compulsory part of the school curriculum.
+BJP_2014_0193,BJP,2014,0,Youth & Sports,We will launch a 'National Sports Talent Search System'.
+BJP_2014_0194,BJP,2014,0,Youth & Sports,We will broaden existing rural sports programme and National Women Sports Festival to reach every village.
+BJP_2014_0195,BJP,2014,0,Youth & Sports,"We will plan attractive career path for sportspersons providing security of career through jobs in government, PSUs and private sector."
+BJP_2014_0196,BJP,2014,0,Youth & Sports,We will establish sports academies across the country.
+BJP_2014_0197,BJP,2014,0,Youth & Sports,We will devise special scheme for sportspersons to ensure social security.
+BJP_2014_0198,BJP,2014,0,Youth & Sports,We will encourage business houses to patronize sports and sportspersons.
+BJP_2014_0199,BJP,2014,0,Youth & Sports,We will mandate all new housing colonies to include sports facilities.
+BJP_2014_0200,BJP,2014,0,Women & Child Development,We will accord high priority to Women's Empowerment and welfare at all levels within the government.
+BJP_2014_0201,BJP,2014,0,Social Justice & Minorities,We will commit to 33% reservation in parliamentary and state assemblies through a constitutional amendment.
+BJP_2014_0202,BJP,2014,0,Women & Child Development,We will launch a national campaign for saving the girl child and educating her- Beti Bachao- Beti Padhao.
+BJP_2014_0203,BJP,2014,0,Women & Child Development,We will structure a comprehensive scheme incorporating best practices to support and encourage positive attitude towards the girl child.
+BJP_2014_0204,BJP,2014,0,Women & Child Development,"We will implement program for women healthcare in a mission mode, focusing on Nutrition and Pregnancy."
+BJP_2014_0205,BJP,2014,0,Women & Child Development,We will enable women with training and skills by setting up dedicated Women ITIs and Women wings in other ITIs.
+BJP_2014_0206,BJP,2014,0,Social Justice & Minorities,"We will strictly implement laws related to women, particularly those related to rape."
+BJP_2014_0207,BJP,2014,0,Social Justice & Minorities,We will clear the unused Fund for relief and rehabilitation of rape victims on priority.
+BJP_2014_0208,BJP,2014,0,Social Justice & Minorities,We will create an Acid Attack victims welfare fund.
+BJP_2014_0209,BJP,2014,0,Women & Child Development,We will make police stations women friendly and increase the number of women in police.
+BJP_2014_0210,BJP,2014,0,Youth & Sports,We will introduce self defence as a part of the school curriculum.
+BJP_2014_0211,BJP,2014,0,Women & Child Development,We will use information technology for women's safety.
+BJP_2014_0212,BJP,2014,0,Women & Child Development,We will set up an All Women Mobile Bank.
+BJP_2014_0213,BJP,2014,0,Women & Child Development,We will provide special skills training and business incubator park for women.
+BJP_2014_0214,BJP,2014,0,Labour & Employment,We will set up special business facilitation center for women.
+BJP_2014_0215,BJP,2014,0,Women & Child Development,We will expand and improve the network of women/working women hostels.
+BJP_2014_0216,BJP,2014,0,Labour & Employment,We will set up a dedicated W-SME cluster in every district.
+BJP_2014_0217,BJP,2014,0,Labour & Employment,We will review working conditions and enhance remuneration of Anganwadi workers.
+BJP_2014_0218,BJP,2014,0,Social Justice & Minorities,"We will remove any remaining gender disparities in property rights, marital rights and cohabitation rights."
+BJP_2014_0219,BJP,2014,0,Social Justice & Minorities,"We will start special adult literacy initiative for women with focus on SCs, STs, OBCs, and slum residents."
+BJP_2014_0220,BJP,2014,0,Women & Child Development,We will ensure loans to Women Self Help Groups are available at low interest rates.
+BJP_2014_0221,BJP,2014,0,Social Justice & Minorities,"We will implement special programs aimed at girls below poverty line, tribals and indigent women."
+BJP_2014_0222,BJP,2014,0,Social Justice & Minorities,"We will take appropriate measures to check female foeticide, dowry, child marriage, trafficking, sexual harassment, rape and family violence."
+BJP_2014_0223,BJP,2014,0,Women & Child Development,"We will transform the quality of life of women in Rural India by providing electricity, tapped water, cleaner fuel and toilets in every home."
+BJP_2014_0224,BJP,2014,0,Education,"We will review and revise education system, salary structures for teaching staff, and address shortfall of faculty."
+BJP_2014_0225,BJP,2014,0,Education,We will raise public spending on education to 6% of the GDP.
+BJP_2014_0226,BJP,2014,0,Education,We will set up mechanism for performance audit and real time information of 'Sarva Shiksha Abhiyan'.
+BJP_2014_0227,BJP,2014,0,Education,We will strengthen and expand 'Sarva Shiksha Abhiyan' with a goal to remove illiteracy.
+BJP_2014_0228,BJP,2014,0,Education,We will universalize secondary school education and skills development through functional school.
+BJP_2014_0229,BJP,2014,0,Education,We will thoroughly review the content and process of school education.
+BJP_2014_0230,BJP,2014,0,Women & Child Development,We will provide all possible help to girls to continue and complete school education.
+BJP_2014_0231,BJP,2014,0,Education,We will ensure the digital divide does not create further divisions in learning situations.
+BJP_2014_0232,BJP,2014,0,Education,We will develop special pedagogy for differently-abled students.
+BJP_2014_0233,BJP,2014,0,Social Justice & Minorities,We will start a national modernization programme for madrasas on priority.
+BJP_2014_0234,BJP,2014,0,Health,We will revitalize mid-day meal scheme in terms of management and delivery.
+BJP_2014_0235,BJP,2014,0,Education,"We will explore ways to reduce the daily burden of carrying books to school, including use of technology."
+BJP_2014_0236,BJP,2014,0,Education,We will establish a national E-Library to empower school teachers and students.
+BJP_2014_0237,BJP,2014,0,Youth & Sports,We will initiate a multi-country student exchange programme for school going children.
+BJP_2014_0238,BJP,2014,0,Youth & Sports,We will recognize and encourage creative talents of students.
+BJP_2014_0239,BJP,2014,0,Education,We will enhance the pivotal role of teachers by reworking the work culture of teacher training institutions.
+BJP_2014_0240,BJP,2014,0,Education,We will ensure optimum utilization of physical and man power resources in higher education.
+BJP_2014_0241,BJP,2014,0,Education,"We will institute a mechanism for close interaction between industry, academia and community in higher education."
+BJP_2014_0242,BJP,2014,0,Education,We will do needs assessment exercise for identifying future needs across sectors to develop appropriate courses.
+BJP_2014_0243,BJP,2014,0,Education,We will provide autonomy with steps to ensure accountability for institutions of higher learning.
+BJP_2014_0244,BJP,2014,0,Education,We will raise the standard of education and research so Indian universities become at par with top global universities.
+BJP_2014_0245,BJP,2014,0,Governance & Anti-Corruption,We will restore credibility of regulatory bodies and make appointments to senior positions transparent and merit-based.
+BJP_2014_0246,BJP,2014,0,Education,We will restructure UGC and transform it into a Higher Education Commission.
+BJP_2014_0247,BJP,2014,0,Labour & Employment,We will revisit the Apprenticeship Act to facilitate youth to Earn while they Learn.
+BJP_2014_0248,BJP,2014,0,Education,We will set up Massive Open Online Courses (MOOC) and virtual classrooms.
+BJP_2014_0249,BJP,2014,0,Women & Child Development,"We will start correspondence courses in new domains for self-employment, family run businesses, entrepreneurship and innovation, provided free to women."
+BJP_2014_0250,BJP,2014,0,Education,We will set up a National Commission on Education to report in two years.
+BJP_2014_0251,BJP,2014,0,Education,We will implement a National Education Policy based on the Commission's report.
+BJP_2014_0252,BJP,2014,0,Labour & Employment,We will take up skill development on a mission mode at an unprecedented scale.
+BJP_2014_0253,BJP,2014,0,Labour & Employment,We will conduct Skill Mapping to scientifically plan national human resource development.
+BJP_2014_0254,BJP,2014,0,Labour & Employment,We will launch a 'National Multi-skill Mission'.
+BJP_2014_0255,BJP,2014,0,Labour & Employment,We will run short-term courses in the evenings focusing on employable skills.
+BJP_2014_0256,BJP,2014,0,Economy & Finance,We will set up Centres of Excellence in various sectors in partnership with the Industry.
+BJP_2014_0257,BJP,2014,0,Labour & Employment,"We will bring together industry, universities and government to ensure industry responsive manpower."
+BJP_2014_0258,BJP,2014,0,Education,We will promote vocational training on a massive scale and establish a mechanism to give vocational qualifications of Academic Equivalence.
+BJP_2014_0259,BJP,2014,0,Education,We will create institutional mechanisms to refresh and upgrade abilities through continuing education.
+BJP_2014_0260,BJP,2014,0,Youth & Sports,We will put emphasis on imparting soft skills to enhance employability including a national program on foreign languages.
+BJP_2014_0261,BJP,2014,0,Youth & Sports,We will launch a national programme for digital empowerment through computer literacy.
+BJP_2014_0262,BJP,2014,0,Youth & Sports,We will assess the talent and capacity of youth from an early age to groom them accordingly.
+BJP_2014_0263,BJP,2014,0,Labour & Employment,We will push for greater practical and research training through internships and apprenticeships.
+BJP_2014_0264,BJP,2014,0,Health,We will initiate the New Health Policy.
+BJP_2014_0265,BJP,2014,0,Health,We will initiate the 'National Health Assurance Mission' to provide universal healthcare.
+BJP_2014_0266,BJP,2014,0,Health,We will review the role of various professional regulatory bodies in healthcare and consider setting up an overarching lean body.
+BJP_2014_0267,BJP,2014,0,Health,We will address the shortfall of healthcare professionals.
+BJP_2014_0268,BJP,2014,0,Health,"We will modernize Government hospitals, upgrading infrastructure and latest technologies."
+BJP_2014_0269,BJP,2014,0,Governance & Anti-Corruption,We will reorganize Ministry of Health and Family Welfare to converge various departments.
+BJP_2014_0270,BJP,2014,0,Health,We will increase the number of medical and para-medical colleges.
+BJP_2014_0271,BJP,2014,0,Health,We will set up an AIIMS like institute in every state.
+BJP_2014_0272,BJP,2014,0,Health,We will increase public investment to promote Yoga and AYUSH.
+BJP_2014_0273,BJP,2014,0,Health,We will start integrated courses for Indian System of Medicine (ISM) and modern science and Ayurgenomics.
+BJP_2014_0274,BJP,2014,0,Health,We will set up institutions and launch a vigorous program to standardize and validate Ayurvedic medicine.
+BJP_2014_0275,BJP,2014,0,Health,We will move to pre-emptive care model focusing on child health and prevention.
+BJP_2014_0276,BJP,2014,0,Health,We will make health and hygiene a part of the school curriculum.
+BJP_2014_0277,BJP,2014,0,Health,We will focus on Rural Health care delivery.
+BJP_2014_0278,BJP,2014,0,Health,We will make Senior Citizens healthcare a special focus area.
+BJP_2014_0279,BJP,2014,0,Health,We will give high priority to chronic diseases and invest in research and development of solutions.
+BJP_2014_0280,BJP,2014,0,Health,We will pursue Occupational health programs aggressively.
+BJP_2014_0281,BJP,2014,0,Health,We will set up the 'National eHealth Authority' to leverage telemedicine and mobile healthcare.
+BJP_2014_0282,BJP,2014,0,Health,We will universalize emergency medical services-108.
+BJP_2014_0283,BJP,2014,0,Rural Development,We will re-orient herbal plants board to encourage farming of herbal plants.
+BJP_2014_0284,BJP,2014,0,Health,We will pursue Population stabilization as a mission mode program.
+BJP_2014_0285,BJP,2014,0,Women & Child Development,"We will implement Programme for Women Healthcare with emphasis on rural, SC, ST and OBC in a mission mode."
+BJP_2014_0286,BJP,2014,0,Health,We will implement a mission mode project to eradicate malnutrition.
+BJP_2014_0287,BJP,2014,0,Health,We will launch National Mosquito Control mission.
+BJP_2014_0288,BJP,2014,0,Energy & Environment,We will ensure a 'Swachh Bharat' by Gandhiji's 150th birth anniversary in 2019.
+BJP_2014_0289,BJP,2014,0,Health,We will create an open defecation free India by awareness campaign and enabling people to build toilets.
+BJP_2014_0290,BJP,2014,0,Energy & Environment,"We will set up modern, scientific sewage and waste management systems."
+BJP_2014_0291,BJP,2014,0,Urban Development,We will introduce Sanitation Ratings measuring and ranking our cities and towns on sanitation.
+BJP_2014_0292,BJP,2014,0,Health,We will make potable drinking water available to all.
+BJP_2014_0293,BJP,2014,0,Economy & Finance,We will find out solutions which are effective in the short run and lasting in the long run for economic revival.
+BJP_2014_0294,BJP,2014,0,Economy & Finance,We will strictly implement Fiscal discipline.
+BJP_2014_0295,BJP,2014,0,Economy & Finance,We will allocate resources efficiently and effectively to re-energize engines of growth.
+BJP_2014_0296,BJP,2014,0,Economy & Finance,We will re-visit the policy framework for investments both foreign and domestic.
+BJP_2014_0297,BJP,2014,0,Economy & Finance,"We will undertake Banking reforms to enhance ease and access, as well as accountability."
+BJP_2014_0298,BJP,2014,0,Economy & Finance,We will encourage Savings as an important driver of investment and growth.
+BJP_2014_0299,BJP,2014,0,Economy & Finance,We will take necessary steps to reduce NPAs in Banking sector.
+BJP_2014_0300,BJP,2014,0,Economy & Finance,We will set up a strong regulatory framework for non-banking financial companies.
+BJP_2014_0301,BJP,2014,0,Economy & Finance,We will provide a non adversarial and conducive tax environment.
+BJP_2014_0302,BJP,2014,0,Economy & Finance,We will rationalize and simplify the tax regime.
+BJP_2014_0303,BJP,2014,0,Economy & Finance,We will overhaul the dispute resolution mechanisms for taxation.
+BJP_2014_0304,BJP,2014,0,Governance & Anti-Corruption,We will bring on board all State governments in adopting GST.
+BJP_2014_0305,BJP,2014,0,Economy & Finance,We will provide tax incentives for investments in research and development.
+BJP_2014_0306,BJP,2014,0,Economy & Finance,"We will allow FDI in sectors wherever needed for job and asset creation, infrastructure and acquisition of niche technology, barring multi-brand retail."
+BJP_2014_0307,BJP,2014,0,Economy & Finance,We will make FIPB functioning more efficient and investor-friendly.
+BJP_2014_0308,BJP,2014,0,Rural Development,We will increase public investment in agriculture and rural development.
+BJP_2014_0309,BJP,2014,0,Agriculture,We will enhance profitability in agriculture by ensuring a minimum of 50% profits over the cost of production.
+BJP_2014_0310,BJP,2014,0,Agriculture,We will provide cheaper agriculture inputs and credit.
+BJP_2014_0311,BJP,2014,0,Agriculture,We will introduce latest technologies for farming and high yielding seeds.
+BJP_2014_0312,BJP,2014,0,Rural Development,We will link MGNREGA to agriculture.
+BJP_2014_0313,BJP,2014,0,Rural Development,"We will put in place welfare measures for farmers above 60 years, small and marginal farmers and farm labours."
+BJP_2014_0314,BJP,2014,0,Energy & Environment,We will introduce and promote low water consuming irrigation techniques.
+BJP_2014_0315,BJP,2014,0,Agriculture,We will introduce soil assessment based crop planning and set up mobile soil testing labs.
+BJP_2014_0316,BJP,2014,0,Rural Development,We will re-orient pest management and control programmes.
+BJP_2014_0317,BJP,2014,0,Agriculture,We will implement and incentivize the setting up of the food processing industry and set up 'agro food processing clusters'.
+BJP_2014_0318,BJP,2014,0,Agriculture,"We will focus on the quality, productivity and trade of spices."
+BJP_2014_0319,BJP,2014,0,Agriculture,We will set up the 'Organic Farming and Fertilizer Corporation of India'.
+BJP_2014_0320,BJP,2014,0,Rural Development,We will introduce rotation farming for herbal products based on geographical mapping.
+BJP_2014_0321,BJP,2014,0,Rural Development,We will implement a farm insurance scheme to take care of crop loss due to natural calamities.
+BJP_2014_0322,BJP,2014,0,Rural Development,We will strengthen and expand rural credit facilities.
+BJP_2014_0323,BJP,2014,0,Rural Development,"We will promote horticulture, floriculture, pisciculture, bee-keeping and poultry."
+BJP_2014_0324,BJP,2014,0,Rural Development,We will promote fish farming and aqua culture and take measures for welfare of fishermen.
+BJP_2014_0325,BJP,2014,0,Other,We will create Cluster based storage systems.
+BJP_2014_0326,BJP,2014,0,Rural Development,We will introduce the concept of consumer friendly farmers' market.
+BJP_2014_0327,BJP,2014,0,Agriculture,We will reform the APMC act.
+BJP_2014_0328,BJP,2014,0,Rural Development,We will work with states to set up seed culture labs in each district and regional agriculture innovation labs.
+BJP_2014_0329,BJP,2014,0,Rural Development,We will explore setting up of regional Kisan TV channels.
+BJP_2014_0330,BJP,2014,0,Rural Development,We will give high priority to poverty alleviation in rural areas.
+BJP_2014_0331,BJP,2014,0,Rural Development,We will adopt a 'National Land Use Policy' and monitor it through a National Land Use Authority.
+BJP_2014_0332,BJP,2014,0,Economy & Finance,"We will ensure a conducive, enabling environment making 'doing business' in India easy."
+BJP_2014_0333,BJP,2014,0,Governance & Anti-Corruption,"We will focus on cutting the red tape, simplifying procedures and removing bottle-necks."
+BJP_2014_0334,BJP,2014,0,Infrastructure,"We will ensure logistics infrastructure, including stable power."
+BJP_2014_0335,BJP,2014,0,Infrastructure,We will move towards a single-window system of clearances through a Hub-spoke model.
+BJP_2014_0336,BJP,2014,0,Governance & Anti-Corruption,We will put in place a mechanism for close coordination between Central and state governments for clearances to mega projects.
+BJP_2014_0337,BJP,2014,0,Energy & Environment,We will make decision-making on environment clearances transparent and time-bound.
+BJP_2014_0338,BJP,2014,0,Economy & Finance,We will set up World class Investment and Industrial regions as Global Hubs of Manufacturing.
+BJP_2014_0339,BJP,2014,0,Labour & Employment,We will set up a task force to review and revive the MSME sector.
+BJP_2014_0340,BJP,2014,0,Energy & Environment,We will frame environment laws to provide no scope for confusion and lead to speedy clearance.
+BJP_2014_0341,BJP,2014,0,Economy & Finance,We will accord high priority to the growth of manufacturing.
+BJP_2014_0342,BJP,2014,0,Economy & Finance,We will take steps for Interest rate rationalization and have a clear tax policy for manufacturing.
+BJP_2014_0343,BJP,2014,0,Economy & Finance,We will remove red-tapism involved in approvals for manufacturing.
+BJP_2014_0344,BJP,2014,0,Economy & Finance,We will invest in logistics infrastructure and ensure power supply for manufacturing.
+BJP_2014_0345,BJP,2014,0,Labour & Employment,We will undertake labour reforms.
+BJP_2014_0346,BJP,2014,0,Economy & Finance,We will increase public spending on R&D and incentivize R&D investments by industry.
+BJP_2014_0347,BJP,2014,0,Economy & Finance,We will facilitate setting up of software and hardware manufacturing units.
+BJP_2014_0348,BJP,2014,0,Economy & Finance,We will encourage Indian companies to go global.
+BJP_2014_0349,BJP,2014,0,Economy & Finance,We will set up trade facilitation for easier customs clearances and visas for business travel.
+BJP_2014_0350,BJP,2014,0,Governance & Anti-Corruption,We will initiate a Government-Industry Dialogue.
+BJP_2014_0351,BJP,2014,0,Labour & Employment,"We will develop the SME sector by providing international linkages, availability of credit through a dedicated SME bank, supply chain efficiencies, adoption of IT, support in R&D and innovation, and policy support for purchasing from SME for large scale projects."
+BJP_2014_0352,BJP,2014,0,Governance & Anti-Corruption,We will review existing laws regarding the cooperative sector and amend the multi-state cooperative act.
+BJP_2014_0353,BJP,2014,0,Economy & Finance,We will move up the value chain of the handicrafts sector driven by a focus on Quality.
+BJP_2014_0354,BJP,2014,0,Rural Development,"We will provide market linkages, access to credit and information, and skills upgradation for handicrafts."
+BJP_2014_0355,BJP,2014,0,Rural Development,"We will encourage value addition in handicrafts through branding, packaging and technology."
+BJP_2014_0356,BJP,2014,0,Rural Development,We will draw schemes for skills upgradation and enhancement of business opportunities for artisans.
+BJP_2014_0357,BJP,2014,0,Economy & Finance,We will focus on Zero defect products.
+BJP_2014_0358,BJP,2014,0,Infrastructure,We will build world class Ports and connect them with roads and rail to the hinterland.
+BJP_2014_0359,BJP,2014,0,Infrastructure,We will enhance Air Cargo facilities throughout the country.
+BJP_2014_0360,BJP,2014,0,Economy & Finance,We will establish an Export Promotion Mission integrating all stakeholders.
+BJP_2014_0361,BJP,2014,0,Economy & Finance,We will bring down current accounts deficit by focusing on exports and reducing dependence on imports.
+BJP_2014_0362,BJP,2014,0,Economy & Finance,We will work with State governments to usher in the GST and put in place a robust IT network system.
+BJP_2014_0363,BJP,2014,0,Economy & Finance,We will embark on the path of IPRs and Patents.
+BJP_2014_0364,BJP,2014,0,Labour & Employment,"We will protect the interest of retailers, small traders and small vendors and equip them with latest techniques."
+BJP_2014_0365,BJP,2014,0,Labour & Employment,We will ensure retailers and SMEs don't have to spend time and money for seeking multiple licenses.
+BJP_2014_0366,BJP,2014,0,Economy & Finance,We will ensure easy availability of institutional credit for businesses.
+BJP_2014_0367,BJP,2014,0,Governance & Anti-Corruption,We will review obsolete and multiple laws to reduce and simplify them.
+BJP_2014_0368,BJP,2014,0,Governance & Anti-Corruption,We will remove ambiguity in rules to make way for prompt decisions.
+BJP_2014_0369,BJP,2014,0,Economy & Finance,We will improve the quality of voice and data in telecom.
+BJP_2014_0370,BJP,2014,0,Urban Development,We will initiate a mission mode project to create 50 tourist circuits built around themes.
+BJP_2014_0371,BJP,2014,0,Youth & Sports,We will start specialized courses in tourism for capacity development.
+BJP_2014_0372,BJP,2014,0,Defence & Security,We will accord due priority to Safety and Security of tourists.
+BJP_2014_0373,BJP,2014,0,Labour & Employment,We will ensure interests of labour in the unorganized sector are protected.
+BJP_2014_0374,BJP,2014,0,Labour & Employment,We will encourage industry owners and labour to embrace the concept of 'Industry Family'.
+BJP_2014_0375,BJP,2014,0,Labour & Employment,We will issue identity cards to unorganized sector labourers and arrange good quality health and education services.
+BJP_2014_0376,BJP,2014,0,Labour & Employment,We will upgrade skills of unorganized labourers through appropriate training programs.
+BJP_2014_0377,BJP,2014,0,Labour & Employment,"We will extend access to modern financial services to labour, including considering a dedicated Workers Bank."
+BJP_2014_0378,BJP,2014,0,Labour & Employment,We will bring together all stakeholders to review Labour laws.
+BJP_2014_0379,BJP,2014,0,Health,We will strengthen the Pension and Health Insurance safety nets for all kinds of labourers.
+BJP_2014_0380,BJP,2014,0,Urban Development,We will roll out a massive Low cost Housing programme to ensure every family has a pucca house by the time the nation completes 75 years of Independence.
+BJP_2014_0381,BJP,2014,0,Urban Development,"We will ensure houses are equipped with basic facilities of toilet, piped water supply, electricity and proper Access."
+BJP_2014_0382,BJP,2014,0,Infrastructure,We will expedite work on the Freight Corridors and attendant Industrial Corridors.
+BJP_2014_0383,BJP,2014,0,Infrastructure,We will connect remote states like Northeast and Jammu and Kashmir with rest of India through world class highways and rail lines.
+BJP_2014_0384,BJP,2014,0,Infrastructure,"We will expedite National Highway construction projects, especially Border and Coastal highways."
+BJP_2014_0385,BJP,2014,0,Infrastructure,We will connect every village through all-weather roads.
+BJP_2014_0386,BJP,2014,0,Infrastructure,We will modernize existing and operational Airports and build new ones connecting smaller towns and tourism circuits.
+BJP_2014_0387,BJP,2014,0,Infrastructure,We will develop inland air transportation to various remote and local locations.
+BJP_2014_0388,BJP,2014,0,Economy & Finance,We will evolve an economic model of Port-led development and develop new ports (Sagar Mala project).
+BJP_2014_0389,BJP,2014,0,Governance & Anti-Corruption,We will encourage Public Private Partnership and establish an institutional framework with greater autonomy and accountability for regulators.
+BJP_2014_0390,BJP,2014,0,Energy & Environment,We will set up Gas Grids to make gas available to households and industry.
+BJP_2014_0391,BJP,2014,0,Infrastructure,We will set up a National Optical-Fibre Network up to the village level.
+BJP_2014_0392,BJP,2014,0,Urban Development,We will set up Wi-Fi zones in public areas.
+BJP_2014_0393,BJP,2014,0,Other,We will harness advanced satellite technology and expertise for development.
+BJP_2014_0394,BJP,2014,0,Infrastructure,We will create a public transport system to reduce dependence on personal vehicles.
+BJP_2014_0395,BJP,2014,0,Infrastructure,"We will launch an Integrated Public transport project including roadways, railways and waterways."
+BJP_2014_0396,BJP,2014,0,Infrastructure,We will develop waterways for passenger and cargo transport.
+BJP_2014_0397,BJP,2014,0,Infrastructure,We will develop National logistics network for faster movement of goods.
+BJP_2014_0398,BJP,2014,0,Infrastructure,"We will modernize, strengthen and upgrade Indian Railways."
+BJP_2014_0399,BJP,2014,0,Infrastructure,We will connect hinterland to ports through strategic new Rail networks.
+BJP_2014_0400,BJP,2014,0,Rural Development,We will establish Agri Rail network with train wagons designed for perishable Agricultural products.
+BJP_2014_0401,BJP,2014,0,Urban Development,We will develop Tourist Rail including Pilgrimage Rail.
+BJP_2014_0402,BJP,2014,0,Infrastructure,We will induct state-of-the-art technology for Railways Modernization.
+BJP_2014_0403,BJP,2014,0,Labour & Employment,We will focus on developing skilled human resources for railways.
+BJP_2014_0404,BJP,2014,0,Infrastructure,"We will prioritize Safety and invest in overhaul of stressed infrastructure, strict norms and warning systems in railways."
+BJP_2014_0405,BJP,2014,0,Infrastructure,We will modernize and equip all stations with requisite infrastructure and public utilities.
+BJP_2014_0406,BJP,2014,0,Infrastructure,We will convert all unmanned crossings into manned crossings in a phased manner.
+BJP_2014_0407,BJP,2014,0,Infrastructure,"We will initiate R&D for indigenous railways, coach design and signals."
+BJP_2014_0408,BJP,2014,0,Infrastructure,We will launch Diamond Quadrilateral project of High Speed Train network (bullet train).
+BJP_2014_0409,BJP,2014,0,Rural Development,We will launch the 'Pradhan Mantri Gram Sinchayee Yojana' with a motto of 'har khet ko paani'.
+BJP_2014_0410,BJP,2014,0,Rural Development,We will launch multi-pronged 'water strategy' for reducing farmer's dependence on monsoon.
+BJP_2014_0411,BJP,2014,0,Rural Development,We will increase irrigated land by completing long pending irrigation projects on priority.
+BJP_2014_0412,BJP,2014,0,Energy & Environment,We will nurture ground water recharge harnessing rain water.
+BJP_2014_0413,BJP,2014,0,Energy & Environment,"We will encourage efficient use, water conservation, recycling and rain water harvesting."
+BJP_2014_0414,BJP,2014,0,Energy & Environment,We will set up Sewage treatment plants to prevent pollution of rivers.
+BJP_2014_0415,BJP,2014,0,Energy & Environment,We will set up Desalination plants for drinking water supply in coastal cities.
+BJP_2014_0416,BJP,2014,0,Energy & Environment,We will inter-link rivers based on feasibility.
+BJP_2014_0417,BJP,2014,0,Energy & Environment,We will examine ground water to eliminate toxic chemicals.
+BJP_2014_0418,BJP,2014,0,Health,We will ensure drinking water security to all.
+BJP_2014_0419,BJP,2014,0,Energy & Environment,We will encourage setting up of drinking water supply grid in water scarce areas.
+BJP_2014_0420,BJP,2014,0,Energy & Environment,"We will promote decentralized, demand-driven, community-managed water resource management."
+BJP_2014_0421,BJP,2014,0,Urban Development,We will facilitate piped water to all households.
+BJP_2014_0422,BJP,2014,0,Energy & Environment,We will come out with a responsible and comprehensive 'National Energy Policy'.
+BJP_2014_0423,BJP,2014,0,Economy & Finance,"We will focus on development of energy infrastructure, human resource development and upgradation of technology."
+BJP_2014_0424,BJP,2014,0,Energy & Environment,"We will maximize the potential of oil, gas, hydel power, ocean, wind, coal and nuclear sources."
+BJP_2014_0425,BJP,2014,0,Energy & Environment,We will set up small-hydro power generation projects.
+BJP_2014_0426,BJP,2014,0,Energy & Environment,We will increase domestic coal exploration and production.
+BJP_2014_0427,BJP,2014,0,Energy & Environment,We will expedite oil and gas explorations.
+BJP_2014_0428,BJP,2014,0,Energy & Environment,We will give a thrust to renewable sources of energy.
+BJP_2014_0429,BJP,2014,0,Energy & Environment,We will expand and strengthen the national solar mission.
+BJP_2014_0430,BJP,2014,0,Education,We will create an ecosystem for fundamental research and innovation in science and technology.
+BJP_2014_0431,BJP,2014,0,Energy & Environment,"We will ensure food, agricultural, nutritional, environmental, wealth, health and energy security using science and technology."
+BJP_2014_0432,BJP,2014,0,Health,"We will mount a direct and sustained effort on alleviation of poverty, enhancing livelihood security, removal of hunger and malnutrition using scientific capabilities."
+BJP_2014_0433,BJP,2014,0,Economy & Finance,We will encourage research and innovation in areas of relevance for the economy and society.
+BJP_2014_0434,BJP,2014,0,Energy & Environment,We will encourage research and application to meet challenges of climate change and natural hazards.
+BJP_2014_0435,BJP,2014,0,Foreign Policy,We will promote international science and technology cooperation.
+BJP_2014_0436,BJP,2014,0,Youth & Sports,We will devise schemes to encourage youth to take scientific research and innovation as a career.
+BJP_2014_0437,BJP,2014,0,Youth & Sports,We will provide work environment and professional opportunities in fundamental scientific research.
+BJP_2014_0438,BJP,2014,0,Education,"We will build world class regional centres of excellence in nanotechnology, material sciences, thorium technology and brain research."
+BJP_2014_0439,BJP,2014,0,Foreign Policy,We will create an ecosystem for multi-country and inter-disciplinary collaborative research.
+BJP_2014_0440,BJP,2014,0,Governance & Anti-Corruption,We will establish an Intellectual Property Rights Regime.
+BJP_2014_0441,BJP,2014,0,Economy & Finance,We will achieve synergy between industry and scientific research by creating autonomous technology transfer organizations.
+BJP_2014_0442,BJP,2014,0,Economy & Finance,We will promote innovation by creating a comprehensive national system of innovation.
+BJP_2014_0443,BJP,2014,0,Rural Development,We will develop and harness indigenous knowledge for wealth and employment generation.
+BJP_2014_0444,BJP,2014,0,Education,We will promote science popularization schemes extensively.
+BJP_2014_0445,BJP,2014,0,Education,We will bring changes in secondary education to focus on application of science.
+BJP_2014_0446,BJP,2014,0,Labour & Employment,We will set an institute of Big data and Analytics.
+BJP_2014_0447,BJP,2014,0,Health,We will do research for the eradication of tropical diseases.
+BJP_2014_0448,BJP,2014,0,Rural Development,We will establish institutes of Technology for Rural Development.
+BJP_2014_0449,BJP,2014,0,Education,We will establish a Central University dedicated to Himalayan Technology.
+BJP_2014_0450,BJP,2014,0,Energy & Environment,"We will promote research and application of nuclear science in medicines, industry and agriculture."
+BJP_2014_0451,BJP,2014,0,Energy & Environment,We will encourage Cleaner production.
+BJP_2014_0452,BJP,2014,0,Energy & Environment,We will promote Cleaner fuels to bring down pollution levels.
+BJP_2014_0453,BJP,2014,0,Energy & Environment,We will promote the concept of pro-active 'Carbon Credit'.
+BJP_2014_0454,BJP,2014,0,Energy & Environment,We will conduct Ecological Audit of projects and pollution indexing of cities and townships.
+BJP_2014_0455,BJP,2014,0,Energy & Environment,We will set up pollution control mechanisms on priority basis.
+BJP_2014_0456,BJP,2014,0,Energy & Environment,We will use wastelands of the country for social forestry.
+BJP_2014_0457,BJP,2014,0,Energy & Environment,We will bring out Guidelines for Green buildings and energy efficient work places.
+BJP_2014_0458,BJP,2014,0,Energy & Environment,We will promote R&D and Human Resource Development in Environment Technology.
+BJP_2014_0459,BJP,2014,0,Energy & Environment,We will set up fool proof mechanisms for protection and preservation of wild life.
+BJP_2014_0460,BJP,2014,0,Energy & Environment,"We will encourage citizen's participation in reforestation, agro-forestry and social forestry."
+BJP_2014_0461,BJP,2014,0,Energy & Environment,We will encourage and incentivize innovative garbage disposal and waste management practices.
+BJP_2014_0462,BJP,2014,0,Energy & Environment,We will launch 'National Mission on Himalayas'.
+BJP_2014_0463,BJP,2014,0,Energy & Environment,We will create a 'Himalayan Sustainability Fund'.
+BJP_2014_0464,BJP,2014,0,Energy & Environment,We will give due Importance to programmes devised to arrest the melting of Himalayan glaciers.
+BJP_2014_0465,BJP,2014,0,Economy & Finance,"We will set in place national policies on critical natural resources like coal, minerals, spectrum."
+BJP_2014_0466,BJP,2014,0,Governance & Anti-Corruption,We will take State Governments into confidence for harnessing of these resources.
+BJP_2014_0467,BJP,2014,0,Economy & Finance,We will implement auction of precious resources through efficient mechanisms including e-auction.
+BJP_2014_0468,BJP,2014,0,Energy & Environment,"We will undertake Resource mapping, exploration and management through the use of technology."
+BJP_2014_0469,BJP,2014,0,Economy & Finance,We will encourage value addition in all resources.
+BJP_2014_0470,BJP,2014,0,Defence & Security,We will revive the anti-terror mechanism and strengthen the role of NIA.
+BJP_2014_0471,BJP,2014,0,Governance & Anti-Corruption,We will put a system in place for swift and fair trial of terror related cases.
+BJP_2014_0472,BJP,2014,0,Defence & Security,We will reform the National Security Council to make it the hub of all sector-related assessments.
+BJP_2014_0473,BJP,2014,0,Governance & Anti-Corruption,We will insulate intelligence agencies from political intervention and interference.
+BJP_2014_0474,BJP,2014,0,Defence & Security,We will completely revamp the intelligence gathering system by modernizing the intelligence department.
+BJP_2014_0475,BJP,2014,0,Defence & Security,We will provide State governments with all assistance to modernize their respective police forces.
+BJP_2014_0476,BJP,2014,0,Defence & Security,We will strengthen and expand the Civil Defence and Home Guards mechanism.
+BJP_2014_0477,BJP,2014,0,Youth & Sports,We will encourage and strengthen NCC training at the college and University level.
+BJP_2014_0478,BJP,2014,0,Defence & Security,We will chalk a national plan to address challenges posed by Maoist insurgency.
+BJP_2014_0479,BJP,2014,0,Governance & Anti-Corruption,We will take urgent steps for the safety of migrant workers and communities from the Northeast and other states.
+BJP_2014_0480,BJP,2014,0,Defence & Security,"We will address the issue of reforms with regards to defence equipment, support services, and organizational reforms."
+BJP_2014_0481,BJP,2014,0,Defence & Security,We will address the increasing shortage of commissioned and non-commissioned staff in the defence forces.
+BJP_2014_0482,BJP,2014,0,Labour & Employment,"We will implement one rank, one pension."
+BJP_2014_0483,BJP,2014,0,Defence & Security,We will build a War Memorial to recognize and honour the gallantry of soldiers.
+BJP_2014_0484,BJP,2014,0,Defence & Security,We will take measures to make Short Service Commission more attractive.
+BJP_2014_0485,BJP,2014,0,Infrastructure,We will set up the National Maritime Authority.
+BJP_2014_0486,BJP,2014,0,Defence & Security,We will modernize armed forces and increase R&D in defence.
+BJP_2014_0487,BJP,2014,0,Defence & Security,We will fast track defence purchases.
+BJP_2014_0488,BJP,2014,0,Defence & Security,We will deal with cross border terrorism with a firm hand.
+BJP_2014_0489,BJP,2014,0,Defence & Security,We will review and improve border management and introduce punitive measures to check illegal immigration.
+BJP_2014_0490,BJP,2014,0,Defence & Security,We will set up four dedicated defence universities.
+BJP_2014_0491,BJP,2014,0,Defence & Security,We will appoint a Veterans Commission to address grievances of veterans.
+BJP_2014_0492,BJP,2014,0,Defence & Security,We will ensure greater participation of Armed Forces in the decision-making process of the Ministry of Defence.
+BJP_2014_0493,BJP,2014,0,Defence & Security,We will improve the efficiency of Armed Forces Tribunals and minimize appeals by the Government.
+BJP_2014_0494,BJP,2014,0,Defence & Security,We will ensure servicemen can register and vote from their place of posting.
+BJP_2014_0495,BJP,2014,0,Defence & Security,We will initiate the process of digitization of defence land.
+BJP_2014_0496,BJP,2014,0,Defence & Security,We will strengthen the DRDO.
+BJP_2014_0497,BJP,2014,0,Defence & Security,"We will encourage private sector participation and investment, including FDI in selected defence industries."
+BJP_2014_0498,BJP,2014,0,Defence & Security,We will encourage technology transfer in defence manufacturing.
+BJP_2014_0499,BJP,2014,0,Defence & Security,We will find solutions to problems hampering the growth of the defence sector.
+BJP_2014_0500,BJP,2014,0,Defence & Security,We will encourage domestic industry to have a larger share in design and production of military hardware.
+BJP_2014_0501,BJP,2014,0,Defence & Security,We will study in detail India's nuclear doctrine and revise and update it.
+BJP_2014_0502,BJP,2014,0,Defence & Security,We will maintain a credible minimum deterrent.
+BJP_2014_0503,BJP,2014,0,Energy & Environment,We will invest in India's indigenous Thorium Technology Programme.
+BJP_2014_0504,BJP,2014,0,Foreign Policy,We will reboot and reorient foreign policy goals to locate India's global strategic engagement in a new paradigm.
+BJP_2014_0505,BJP,2014,0,Foreign Policy,We will mend equations through pragmatism and a doctrine of mutually beneficial relationships.
+BJP_2014_0506,BJP,2014,0,Foreign Policy,We will champion uniform international opinion on issues like Terrorism and Global Warming.
+BJP_2014_0507,BJP,2014,0,Foreign Policy,We will engage proactively with countries in the neighbourhood and beyond.
+BJP_2014_0508,BJP,2014,0,Foreign Policy,We will pursue friendly relations in the neighbourhood and take strong stand where required.
+BJP_2014_0509,BJP,2014,0,Foreign Policy,We will work towards strengthening Regional forums like SAARC and ASEAN.
+BJP_2014_0510,BJP,2014,0,Foreign Policy,"We will continue dialogue and cooperation with global forums like BRICS, G20, IBSA, SCO and ASEM."
+BJP_2014_0511,BJP,2014,0,Foreign Policy,We will encourage States to play a greater role in diplomacy.
+BJP_2014_0512,BJP,2014,0,Foreign Policy,We will expand and empower the pool of diplomats.
+BJP_2014_0513,BJP,2014,0,Foreign Policy,"We will harness NRIs, PIOs and professionals settled abroad for strengthening Brand India."
+BJP_2014_0514,BJP,2014,0,Social Justice & Minorities,We will remain a natural home for persecuted Hindus and welcome them to seek refuge.
+BJP_2014_0515,BJP,2014,0,Governance & Anti-Corruption,We will explore all possibilities within the framework of the constitution to facilitate the construction of the Ram Temple in Ayodhya.
+BJP_2014_0516,BJP,2014,0,Foreign Policy,We will take into consideration the cultural heritage and strategic importance of Ram Setu while taking any decision on 'Sethu-Samudram Channel' project.
+BJP_2014_0517,BJP,2014,0,Energy & Environment,"We will ensure the cleanliness, purity and uninterrupted flow of the Ganga on priority."
+BJP_2014_0518,BJP,2014,0,Energy & Environment,We will launch a massive 'Clean Rivers Programme' across the country driven by people's participation.
+BJP_2014_0519,BJP,2014,0,Rural Development,We will strengthen and empower the Department of Animal Husbandry for the protection and promotion of cow and its progeny.
+BJP_2014_0520,BJP,2014,0,Rural Development,We will create necessary legal framework to protect and promote cow and its progeny.
+BJP_2014_0521,BJP,2014,0,Rural Development,We will set up a National Cattle Development board to implement a Programme for the improvement of indigenous livestock breeds.
+BJP_2014_0522,BJP,2014,0,Infrastructure,We will provide appropriate resources for the maintenance and restoration of all national heritage sites.
+BJP_2014_0523,BJP,2014,0,Governance & Anti-Corruption,We will initiate digitization of archives and archeological and museological records.
+BJP_2014_0524,BJP,2014,0,Urban Development,We will launch a National Mission for beautifying and improving infrastructure and amenities at pilgrimage centres of all faiths.
+BJP_2014_0525,BJP,2014,0,Social Justice & Minorities,We will promote Indian languages and put measures for the development of all Indian languages.
+BJP_2014_0526,BJP,2014,0,Social Justice & Minorities,We will draft a Uniform Civil Code drawing upon the best traditions and harmonizing them with modern times.
