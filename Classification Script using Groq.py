@@ -43,7 +43,7 @@ for index, row in df.iterrows():
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": f"Promise: {text}"}
             ],
-            model="llama-3.1-8b-instant", # Extremely fast and accurate for classification
+            model="llama-3.1-8b-instant", # Extremely fast and accurate for classification, could also use gpt oss 20b
             temperature=0,
             max_tokens=10
         )
